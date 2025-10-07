@@ -8,7 +8,7 @@ and team success.
 This project will explore correlation, not causation — spending more does not necessarily cause success, but may correlate with other factors such 
 as franchise management quality, player development, or market size.
 
-3. Goal:
+2. Goal:
 My goals for this project are:
 - To determine if teams have a higher chances of making the playoffs if they spend more money.
 - To determine if there's a correlation between winning the division and teams spending more money.
@@ -32,11 +32,11 @@ To model the data, I will use:
 
 The metrics I will be using to measure accuracy will be Precision, Recall, and ROC-AUC.
 
-6. Visualization:
+5. Visualization:
 I plan on using scatterplots to display my data, plotting the total money spent versus the number of wins each year. I may try and use
 an interactive plot team performance relative to their payroll over time. 
 
-7. Test Plan:
+6. Test Plan:
 My goal is to train on the years 2000-2015, and then test in 2016-2025. I will be cross validating within the training data to tune model parameters.
 October will be using for data collection, clean, and beginning visualization. November will be for extraction, modeling, and analysis. December will
 be for model evaluation and any refinements. 
