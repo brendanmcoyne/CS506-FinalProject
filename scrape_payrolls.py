@@ -24,13 +24,11 @@ def scrape_steve_the_ump():
         else:
             continue
 
-        # Extract rows
         for tr in table.find_all("tr"):
             cols = tr.find_all("td")
             if len(cols) >= 2:
                 team = cols[0].get_text(strip=True)
                 payroll = cols[1].get_text(strip=True)
-                # Skip blank or non-data rows
                 if not team or not payroll:
                     continue
                 if "League Avg" in team or "Top ML Player" in team or "Totals" in team:
@@ -39,15 +37,12 @@ def scrape_steve_the_ump():
 
     df = pd.DataFrame(all_data)
 
-    # Clean Payroll column
     df['Payroll'] = df['Payroll'].replace('[\$,]', '', regex=True)
     df['Payroll'] = pd.to_numeric(df['Payroll'], errors='coerce')
     df = df.dropna(subset=['Payroll'])
 
-    # Filter for years 2000-2015
     df = df[(df['Year'] >= 2000) & (df['Year'] <= 2015)]
 
-    # Optional: check missing teams per year
     expected_teams = 30
     for y in range(2000, 2016):
         count = len(df[df['Year'] == y])
@@ -56,7 +51,6 @@ def scrape_steve_the_ump():
 
     return df
 
-# Scrape and save
 payroll_df = scrape_steve_the_ump()
 payroll_df.to_csv("mlb_2000_2015_payrolls.csv", index=False)
 print("Saved payroll data to mlb_2000_2015_payrolls.csv")

@@ -1,64 +1,94 @@
 Year,Team,Payroll
-2015,1. Los Angeles Dodgers,272789040.0
-2015,2. New York Yankees,219282196.0
-2015,3. Boston Red Sox,187407202.0
-2015,4. Detroit Tigers,173813750.0
-2015,5. San Francisco Giants,172672111.0
-2015,6. Washington Nationals,164920505.0
-2015,7. Los Angeles Angels,150933083.0
-2015,8. Texas Rangers,142140873.0
-2015,9. Philadelphia Phillies,135827500.0
-2015,10. Toronto Blue Jays,122506600.0
-2015,11. St. Louis Cardinals,120869458.0
-2015,12. Seattle Mariners,119798060.0
-2015,13. Chicago Cubs,119006885.0
-2015,14. Cincinnati Reds,117197072.0
-2015,15. Chicago White Sox,115238678.0
-2015,16. Kansas City Royals,113618650.0
-2015,17. Baltimore Orioles,110146097.0
-2015,18. Minnesota Twins,108945000.0
-2015,19. Milwaukee Brewers,105002536.0
-2015,20. Colorado Rockies,102006130.0
-2015,21. New York Mets,101409244.0
-2015,22. San Diego Padres,100675896.0
-2015,23. Atlanta Braves,97578565.0
-2015,24. Arizona Diamondbacks,91518833.0
-2015,25. Pittsburgh Pirates,88278500.0
-2015,26. Cleveland Indians,86091175.0
-2015,27. Oakland A's,86086667.0
-2015,28. Tampa Bay Rays,76061707.0
-2015,29. Houston Astros,70910100.0
-2015,30. Miami Marlins,68479000.0
-2014,1. Los Angeles Dodgers,235295219.0
-2014,2. New York Yankees,203812506.0
-2014,3. Philadelphia Phillies,180052723.0
-2014,4. Boston Red Sox,162817411.0
-2014,5. Detroit Tigers,162228527.0
-2014,6. Los Angeles Angels,155692000.0
-2014,7. San Francisco Giants,154185878.0
-2014,8. Texas Rangers,136036172.0
-2014,9. Washington Nationals,134704437.0
-2014,10. Toronto Blue Jays,132628700.0
-2014,11. Arizona Diamondbacks,112688666.0
-2014,12. Cincinnati Reds,112390772.0
-2014,13. St. Louis Cardinals,111020360.0
-2014,14. Atlanta Braves,110897341.0
-2014,15. Baltimore Orioles,107406623.0
-2014,16. Milwaukee Brewers,103844806.0
-2014,17. Colorado Rockies,95832071.0
-2014,18. Seattle Mariners,92081943.0
-2014,19. Kansas City Royals,92034345.0
-2014,20. Chicago White Sox,91159254.0
-2014,21. San Diego Padres,90094196.0
-2014,22. New York Mets,89051758.0
-2014,23. Chicago Cubs,89007857.0
-2014,24. Minnesota Twins,85776500.0
-2014,25. Oakland Athletics,83401400.0
-2014,26. Cleveland Indians,82534800.0
-2014,27. Pittsburgh Pirates,78111667.0
-2014,28. Tampa Bay Rays,77062891.0
-2014,29. Miami Marlins,47565400.0
-2014,30. Houston Astros,44544174.0
+2015, Los Angeles Dodgers,272789040.0
+2015, New York Yankees,219282196.0
+2015, Boston Red Sox,187407202.0
+2015, Detroit Tigers,173813750.0
+2015, San Francisco Giants,172672111.0
+2015, Washington Nationals,164920505.0
+2015, Los Angeles Angels,150933083.0
+2015, Texas Rangers,142140873.0
+2015, Philadelphia Phillies,135827500.0
+2015, Toronto Blue Jays,122506600.0
+2015, St. Louis Cardinals,120869458.0
+2015, Seattle Mariners,119798060.0
+2015, Chicago Cubs,119006885.0
+2015, Cincinnati Reds,117197072.0
+2015, Chicago White Sox,115238678.0
+2015, Kansas City Royals,113618650.0
+2015, Baltimore Orioles,110146097.0
+2015, Minnesota Twins,108945000.0
+2015, Milwaukee Brewers,105002536.0
+2015, Colorado Rockies,102006130.0
+2015, New York Mets,101409244.0
+2015, San Diego Padres,100675896.0
+2015, Atlanta Braves,97578565.0
+2015, Arizona Diamondbacks,91518833.0
+2015, Pittsburgh Pirates,88278500.0
+2015, Cleveland Indians,86091175.0
+2015, Oakland A's,86086667.0
+2015, Tampa Bay Rays,76061707.0
+2015, Houston Astros,70910100.0
+2015, Miami Marlins,68479000.0
+2014, Los Angeles Dodgers,235295219.0
+2014, New York Yankees,203812506.0
+2014, Philadelphia Phillies,180052723.0
+2014, Boston Red Sox,162817411.0
+2014, Detroit Tigers,162228527.0
+2014, Los Angeles Angels,155692000.0
+2014, San Francisco Giants,154185878.0
+2014, Texas Rangers,136036172.0
+2014, Washington Nationals,134704437.0
+2014, Toronto Blue Jays,132628700.0
+2014, Arizona Diamondbacks,112688666.0
+2014, Cincinnati Reds,112390772.0
+2014, St. Louis Cardinals,111020360.0
+2014, Atlanta Braves,110897341.0
+2014, Baltimore Orioles,107406623.0
+2014, Milwaukee Brewers,103844806.0
+2014, Colorado Rockies,95832071.0
+2014, Seattle Mariners,92081943.0
+2014, Kansas City Royals,92034345.0
+2014, Chicago White Sox,91159254.0
+2014, San Diego Padres,90094196.0
+2014, New York Mets,89051758.0
+2014, Chicago Cubs,89007857.0
+2014, Minnesota Twins,85776500.0
+2014, Oakland Athletics,83401400.0
+2014, Cleveland Indians,82534800.0
+2014, Pittsburgh Pirates,78111667.0
+2014, Tampa Bay Rays,77062891.0
+2014, Miami Marlins,47565400.0
+2014, Houston Astros,44544174.0
+2013,New York Yankees,228835490.0
+2013,Los Angeles Dodgers,216597577.0
+2013,Philadelphia Phillies,165385714.0
+2013,Boston Red Sox,150655500.0
+2013,Detroit Tigers,148414500.0
+2013,San Francisco Giants,140264334.0
+2013,Los Angeles Angels,127896250.0
+2013,Chicago White Sox,119073277.0
+2013,Toronto Blue Jays,117527800.0
+2013,St. Louis Cardinals,115222086.0
+2013,Texas Rangers,114090100.0
+2013,Washington Nationals,114056769.0
+2013,Cincinnati Reds,107491305.0
+2013,Chicago Cubs,104304676.0
+2013,Baltimore Orioles,90993333.0
+2013,Atlanta Braves,89778192.0
+2013,Arizona Diamondbacks,89100500.0
+2013,Milwaukee Brewers,82976944.0
+2013,Kansas City Royals,81491725.0
+2013,Pittsburgh Pirates,79555000.0
+2013,Cleveland Indians,77772800.0
+2013,Minnesota Twins,75802500.0
+2013,New York Mets,73396649.0
+2013,Seattle Mariners,72031143.0
+2013,Colorado Rockies,71924071.0
+2013,San Diego Padres,67143600.0
+2013,Oakland Athletics,60664500.0
+2013,Tampa Bay Rays,57895272.0
+2013,Miami Marlins,36341900.0
+2013,Houston Astros,22062600.0
 2012,New York Yankees,197962289.0
 2012,Philadelphia Phillies,174538938.0
 2012,Boston Red Sox,173186617.0
@@ -89,66 +119,96 @@ Year,Team,Payroll
 2012,Houston Astros,60651000.0
 2012,Oakland Athletics,55372500.0
 2012,San Diego Padres,55244700.0
-2011,N.Y. Yankees,201689030.0
-2011,Philadelphia,172976381.0
-2011,Boston,161407476.0
+2011,New York Yankees,201689030.0
+2011,Philadelphia Phillies,172976381.0
+2011,Boston Red Sox,161407476.0
 2011,Los Angeles Angels,138998524.0
 2011,Chicago White Sox,129285539.0
 2011,Chicago Cubs,125480664.0
 2011,New York Mets,120147310.0
-2011,San Francisco,118216333.0
-2011,Minnesota,112737000.0
-2011,Detroit,105705232.0
-2011,St. Louis,105433572.0
+2011,San Francisco Giants,118216333.0
+2011,Minnesota Twins,112737000.0
+2011,Detroit Tigers,105705232.0
+2011,St. Louis Cardinals,105433572.0
 2011,Los Angeles Dodgers,103788990.0
-2011,Texas,92299265.0
-2011,Colorado,87998071.0
-2011,Atlanta,87003192.0
-2011,Seattle,86424600.0
-2011,Milwaukee,85497333.0
-2011,Baltimore,85304038.0
-2011,Cincinnati,76181365.0
-2011,Houston,70694000.0
-2011,Oakland,66536500.0
-2011,Washington,63681929.0
-2011,Toronto,62517800.0
-2011,Florida,56944000.0
-2011,Arizona,53639833.0
-2011,Cleveland,49188867.0
-2011,Pittsburgh,46047000.0
-2011,San Diego,45869140.0
-2011,Tampa Bay,41932171.0
-2011,Kansas City,36126400.0
-2009,N.Y. Yankees,201449289.0
+2011,Texas Rangers,92299265.0
+2011,Colorado Rockies,87998071.0
+2011,Atlanta Braves,87003192.0
+2011,Seattle Mariners,86424600.0
+2011,Milwaukee Brewers,85497333.0
+2011,Baltimore Orioles,85304038.0
+2011,Cincinnati Reds,76181365.0
+2011,Houston Astros,70694000.0
+2011,Oakland Athletics,66536500.0
+2011,Washington Nationals,63681929.0
+2011,Toronto Blue Jays,62517800.0
+2011,Florida Marlins,56944000.0
+2011,Arizona Diamondbacks,53639833.0
+2011,Cleveland Indians,49188867.0
+2011,Pittsburgh Pirates,46047000.0
+2011,San Diego Padres,45869140.0
+2011,Tampa Bay Rays,41932171.0
+2011,Kansas City Royals,36126400.0
+2010,New York Yankees,206333389.0
+2010,Boston Red Sox,162747333.0
+2010,Chicago Cubs,146859000.0
+2010,Philadelphia Phillies,141927381.0
+2010,New York Mets,132701445.0
+2010,Detroit Tigers,122864929.0
+2010,Chicago White Sox,108273197.0
+2010,Los Angeles Angels,105013667.0
+2010,Seattle Mariners,98376667.0
+2010,San Francisco Giants,97828833.0
+2010,Minnesota Twins,97559167.0
+2010,Los Angeles Dodgers,94945517.0
+2010,St. Louis Cardinals,93540753.0
+2010,Houston Astros,92355500.0
+2010,Atlanta Braves,84423667.0
+2010,Colorado Rockies,84227000.0
+2010,Baltimore Orioles,81612500.0
+2010,Milwaukee Brewers,81108279.0
+2010,Cincinnati Reds,72386544.0
+2010,Kansas City Royals,72267710.0
+2010,Tampa Bay Rays,71923471.0
+2010,Toronto Blue Jays,62689357.0
+2010,Washington Nationals,61425000.0
+2010,Cleveland Indians,61203967.0
+2010,Arizona Diamondbacks,60718167.0
+2010,Florida Marlins,55641500.0
+2010,Texas Rangers,55250545.0
+2010,Oakland Athletics,51654900.0
+2010,San Diego Padres,37799300.0
+2010,Pittsburgh Pirates,34943000.0
+2009,New York Yankees,201449289.0
 2009,New York Mets,135773988.0
 2009,Chicago Cubs,135050000.0
-2009,Boston,122696000.0
-2009,Detroit,115085145.0
+2009,Boston Red Sox,122696000.0
+2009,Detroit Tigers,115085145.0
 2009,Los Angeles Angels,113709000.0
-2009,Philadelphia,113004048.0
-2009,Houston,102996415.0
+2009,Philadelphia Phillies,113004048.0
+2009,Houston Astros,102996415.0
 2009,Los Angeles Dodgers,100458101.0
-2009,Seattle,98904167.0
-2009,Atlanta,96726167.0
+2009,Seattle Mariners,98904167.0
+2009,Atlanta Braves,96726167.0
 2009,Chicago White Sox,96068500.0
-2009,St. Louis,88528411.0
-2009,San Francisco,82161450.0
-2009,Cleveland,81625567.0
-2009,Toronto,80993657.0
-2009,Milwaukee,80257502.0
-2009,Colorado,75201000.0
-2009,Arizona,73571667.0
-2009,Cincinnati,70968500.0
-2009,Kansas City,70908333.0
-2009,Texas,68646023.0
-2009,Baltimore,67101667.0
-2009,Minnesota,65299267.0
-2009,Tampa Bay,63313035.0
-2009,Oakland,62310000.0
-2009,Washington,59328000.0
-2009,Pittsburgh,48743000.0
-2009,San Diego,42796700.0
-2009,Florida,36814000.0
+2009,St. Louis Cardinals,88528411.0
+2009,San Francisco Giants,82161450.0
+2009,Cleveland Indians,81625567.0
+2009,Toronto Blue Jays,80993657.0
+2009,Milwaukee Brewers,80257502.0
+2009,Colorado Rockies,75201000.0
+2009,Arizona Diamondbacks,73571667.0
+2009,Cincinnati Reds,70968500.0
+2009,Kansas City Royals,70908333.0
+2009,Texas Rangers,68646023.0
+2009,Baltimore Orioles,67101667.0
+2009,Minnesota Twins,65299267.0
+2009,Tampa Bay Rays,63313035.0
+2009,Oakland Athletics,62310000.0
+2009,Washington Nationals,59328000.0
+2009,Pittsburgh Pirates,48743000.0
+2009,San Diego Padres,42796700.0
+2009,Florida Marlins,36814000.0
 2008,New York Yankees,209081577.0
 2008,New York Mets,137793376.0
 2008,Detroit Tigers,137685196.0
@@ -208,7 +268,7 @@ Year,Team,Payroll
 2007,Pittsburgh Pirates,38537833.0
 2007,Washington Nationals,37347500.0
 2007,Florida Marlins,30507000.0
-2007,Tampa Bay Devil Rays,24123500.0
+2007,Tampa Bay Rays,24123500.0
 2006,New York Yankees,194663079.0
 2006,Boston Red Sox,120099824.0
 2006,Los Angeles Angels,103472000.0
@@ -237,50 +297,80 @@ Year,Team,Payroll
 2006,Kansas City Royals,47294000.0
 2006,Pittsburgh Pirates,46717750.0
 2006,Colorado Rockies,41233000.0
-2006,Tampa Bay Devil Rays,35417967.0
+2006,Tampa Bay Rays,35417967.0
 2006,Florida Marlins,14998500.0
-2004,N.Y. Yankees,182835513.0
-2004,Boston,125208542.0
-2004,Anaheim,101084667.0
+2005,New York Yankees,205938439.0
+2005,Boston Red Sox,121311945.0
+2005,New York Mets,104770139.0
+2005,Philadelphia Phillies,95337908.0
+2005,Los Angeles Angels,95017822.0
+2005,St. Louis Cardinals,93319842.0
+2005,San Francisco Giants,89487842.0
+2005,Chicago Cubs,87210933.0
+2005,Seattle Mariners,85883333.0
+2005,Atlanta Braves,85148582.0
+2005,Los Angeles Dodgers,81029500.0
+2005,Houston Astros,76779022.0
+2005,Chicago White Sox,75228000.0
+2005,Baltimore Orioles,74570539.0
+2005,Detroit Tigers,68998183.0
+2005,Arizona Diamondbacks,63015834.0
+2005,San Diego Padres,62888192.0
+2005,Florida Marlins,60375961.0
+2005,Cincinnati Reds,59658275.0
+2005,Minnesota Twins,56615000.0
+2005,Oakland Athletics,55869262.0
+2005,Texas Rangers,55307258.0
+2005,Washington Nationals,48581500.0
+2005,Colorado Rockies,47789000.0
+2005,Toronto Blue Jays,45336500.0
+2005,Cleveland Indians,41830400.0
+2005,Milwaukee Brewers,40234833.0
+2005,Pittsburgh Pirates,38138000.0
+2005,Kansas City Royals,36881000.0
+2005,Tampa Bay Rays,29893567.0
+2004,New York Yankees,182835513.0
+2004,Boston Red Sox,125208542.0
+2004,Los Angeles Angels,101084667.0
 2004,New York Mets,100629303.0
-2004,Philadelphia,93219167.0
+2004,Philadelphia Phillies,93219167.0
 2004,Chicago Cubs,91101667.0
-2004,Los Angeles,89694342.0
-2004,Atlanta,88507788.0
-2004,San Francisco,82019167.0
-2004,Seattle,81543833.0
-2004,St. Louis,75633517.0
-2004,Houston,74666303.0
-2004,Arizona,70204984.0
-2004,Ch. White Sox,65212500.0
-2004,Colorado,64590403.0
-2004,Oakland,59825167.0
-2004,Texas,54825973.0
-2004,San Diego,54639503.0
-2004,Minnesota,53585000.0
-2004,Baltimore,51212653.0
-2004,Toronto,50017000.0
-2004,Kansas City,47609000.0
-2004,Detroit,46353554.0
-2004,Montreal,43197500.0
-2004,Cincinnati,43067858.0
-2004,Florida,42118042.0
-2004,Cleveland,34569300.0
-2004,Pittsburgh,32227929.0
-2004,Tampa Bay,29506667.0
-2004,Milwaukee,27518500.0
-2003,NY Yankees,152749814.0
-2003,NY Mets,117176429.0
+2004,Los Angeles Dodgers,89694342.0
+2004,Atlanta Braves,88507788.0
+2004,San Francisco Giants,82019167.0
+2004,Seattle Mariners,81543833.0
+2004,St. Louis Cardinals,75633517.0
+2004,Houston Astros,74666303.0
+2004,Arizona Diamondbacks,70204984.0
+2004,Chicago White Sox,65212500.0
+2004,Colorado Rockies,64590403.0
+2004,Oakland Athletics,59825167.0
+2004,Texas Rangers,54825973.0
+2004,San Diego Padres,54639503.0
+2004,Minnesota Twins,53585000.0
+2004,Baltimore Orioles,51212653.0
+2004,Toronto Blue Jays,50017000.0
+2004,Kansas City Royals,47609000.0
+2004,Detroit Tigers,46353554.0
+2004,Montreal Expos,43197500.0
+2004,Cincinnati Reds,43067858.0
+2004,Florida Marlins,42118042.0
+2004,Cleveland Indians,34569300.0
+2004,Pittsburgh Pirates,32227929.0
+2004,Tampa Bay Rays,29506667.0
+2004,Milwaukee Brewers,27518500.0
+2003,New York Yankees,152749814.0
+2003,New York Mets,117176429.0
 2003,Atlanta Braves,106243667.0
-2003,LA Dodgers,105872620.0
+2003,Los Angeles Dodgers,105872620.0
 2003,Texas Rangers,103491667.0
 2003,Boston Red Sox,99946500.0
 2003,Seattle Mariners,86959167.0
 2003,St Louis Cardinals,83486666.0
-2003,SF Giants,82852167.0
+2003,San Francisco Giants,82852167.0
 2003,Arizona Diamondbacks,80640333.0
 2003,Chicago Cubs,79868333.0
-2003,Anaheim Angels,79031667.0
+2003,Los Angeles Angels,79031667.0
 2003,Baltimore Orioles,73877500.0
 2003,Houston Astros,71040000.0
 2003,Philadelphia Phillies,70780000.0
@@ -297,23 +387,23 @@ Year,Team,Payroll
 2003,Cleveland Indians,48584834.0
 2003,San Diego Padres,47928000.0
 2003,Milwaukee Brewers,40627000.0
-2003,KC Royals,40518000.0
-2003,Tampa Bay Devil Rays,19630000.0
-2002,NY Yankees,125928583.0
+2003,Kansas City Royals,40518000.0
+2003,Tampa Bay Rays,19630000.0
+2002,New York Yankees,125928583.0
 2002,Boston Red Sox,108366060.0
 2002,Texas Rangers,105302124.0
 2002,Arizona Diamondbacks,102820000.0
-2002,LA Dodgers,94850952.0
-2002,NY Mets,94633593.0
+2002,Los Angeles Dodgers,94850952.0
+2002,New York Mets,94633593.0
 2002,Atlanta Braves,93470367.0
 2002,Seattle Mariners,80282668.0
 2002,Cleveland Indians,78909448.0
-2002,SF Giants,78299835.0
+2002,San Francisco Giants,78299835.0
 2002,Toronto Blue Jays,76864333.0
 2002,Chicago Cubs,75690833.0
 2002,St. Louis Cardinals,74098267.0
 2002,Houston Astros,63448417.0
-2002,Anaheim Angels,61721667.0
+2002,Los Angeles Angels,61721667.0
 2002,Baltimore Orioles,60493487.0
 2002,Philadelphia Phillies,57955000.0
 2002,Chicago White Sox,57052833.0
@@ -328,64 +418,65 @@ Year,Team,Payroll
 2002,Minnesota Twins,40225000.0
 2002,Oakland Athletics,39679746.0
 2002,Montreal Expos,38670500.0
-2002,Tampa Bay Devil Rays,34380000.0
-2001,NY Yankees,109791893.0
-2001,Boston,109558908.0
-2001,Los Angeles,108980952.0
-2001,NY Mets,93174428.0
-2001,Cleveland,91974979.0
-2001,Atlanta,91851687.0
-2001,Texas,88504421.0
-2001,Arizona,81206513.0
-2001,St. Louis,77270855.0
-2001,Toronto,75798500.0
-2001,Seattle,75652500.0
-2001,Baltimore,72426328.0
-2001,Colorado,71068000.0
+2002,Tampa Bay Rays,34380000.0
+2001,New York Yankees,109791893.0
+2001,Boston Red Sox,109558908.0
+2001,Los Angeles Dodgers,108980952.0
+2001,New York Mets,93174428.0
+2001,Cleveland Indians,91974979.0
+2001,Atlanta Braves,91851687.0
+2001,Texas Rangers,88504421.0
+2001,Arizona Diamondbacks,81206513.0
+2001,St. Louis Cardinals,77270855.0
+2001,Toronto Blue Jays,75798500.0
+2001,Seattle Mariners,75652500.0
+2001,Baltimore Orioles,72426328.0
+2001,Colorado Rockies,71068000.0
 2001,Chicago Cubs,64015833.0
-2001,San Francisco,63332667.0
+2001,San Francisco Giants,63332667.0
 2001,Chicago White Sox,62363000.0
-2001,Houston,60382667.0
-2001,Tampa Bay,54951602.0
-2001,Pittsburgh,52698333.0
-2001,Detroit,49831167.0
-2001,Anaheim,46568180.0
-2001,Cincinnati,45227882.0
-2001,Milwaukee,43089333.0
-2001,Philadelphia,41664167.0
-2001,San Diego,38333117.0
-2001,Kansas City,35643000.0
-2001,Florida,35504167.0
-2001,Montreal,34774500.0
-2001,Oakland,33810750.0
-2001,Minnesota,24350000.0
-2000,NY Yankees,92538260.0
-2000,Los Angeles,88124286.0
-2000,Atlanta,84537836.0
-2000,Baltimore,81447435.0
-2000,Arizona,81027833.0
-2000,NY Mets,79509776.0
-2000,Boston,77940333.0
-2000,Cleveland,75880871.0
-2000,Texas,70795921.0
-2000,Tampa Bay,62765129.0
-2000,St. Louis,61453863.0
-2000,Colorado,61111190.0
+2001,Houston Astros,60382667.0
+2001,Tampa Bay Rays,54951602.0
+2001,Pittsburgh Pirates,52698333.0
+2001,Detroit Tigers,49831167.0
+2001,Los Angeles Angels,46568180.0
+2001,Cincinnati Reds,45227882.0
+2001,Milwaukee Brewers,43089333.0
+2001,Philadelphia Phillies,41664167.0
+2001,San Diego Padres,38333117.0
+2001,Kansas City Royals,35643000.0
+2001,Florida Marlins,35504167.0
+2001,Montreal Expos,34774500.0
+2001,Oakland Athletics,33810750.0
+2001,Minnesota Twins,24350000.0
+2000,New York Yankees,92538260.0
+2000,Los Angeles Dodgers,88124286.0
+2000,Atlanta Braves,84537836.0
+2000,Baltimore Orioles,81447435.0
+2000,Arizona Diamondbacks,81027833.0
+2000,New York Mets,79509776.0
+2000,Boston Red Sox,77940333.0
+2000,Cleveland Indians,75880871.0
+2000,Texas Rangers,70795921.0
+2000,Tampa Bay Rays,62765129.0
+2000,St. Louis Cardinals,61453863.0
+2000,Colorado Rockies,61111190.0
 2000,Chicago Cubs,60539333.0
-2000,Seattle,58915000.0
-2000,Detroit,58265167.0
-2000,San Diego,54821000.0
-2000,San Francisco,53737826.0
-2000,Anaheim,51464167.0
-2000,Houston,51289111.0
-2000,Philadelphia,47308000.0
-2000,Cincinnati,46867200.0
-2000,Toronto,46238333.0
-2000,Milwaukee,36505333.0
-2000,Montreal,34807833.0
-2000,Oakland,31971333.0
+2000,Seattle Mariners,58915000.0
+2000,Detroit Tigers,58265167.0
+2000,San Diego Padres,54821000.0
+2000,San Francisco Giants,53737826.0
+2000,Los Angeles Angels,51464167.0
+2000,Houston Astros,51289111.0
+2000,Philadelphia Phillies,47308000.0
+2000,Cincinnati Reds,46867200.0
+2000,Toronto Blue Jays,46238333.0
+2000,Milwaukee Brewers,36505333.0
+2000,Montreal Expos,34807833.0
+2000,Oakland Athletics,31971333.0
 2000,Chicago White Sox,31133500.0
-2000,Pittsburgh,28928333.0
-2000,Kansas City,23433000.0
-2000,Florida,20072000.0
-2000,Minnesota,16519500.0
+2000,Pittsburgh Pirates,28928333.0
+2000,Kansas City Royals,23433000.0
+2000,Florida Marlins,20072000.0
+2000,Minnesota Twins,16519500.0
+
