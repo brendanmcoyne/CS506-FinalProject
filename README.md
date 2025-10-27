@@ -7,24 +7,33 @@ I created several visualizations to explore the relationship between team payrol
 
 - Scatterplots showing each team’s winning percentage versus total payroll for the years 2000 and 2015.
 - These plots illustrate how the league’s payroll landscape and win distributions have changed over time.
+  
+![](Images/PayrollsVSWins2000.png)
+![](Images/PayrollsVSWins2015.png)
 
 2. Win% vs Payroll (2000–2015, All Teams)
 
 - Scatterplot of all teams from 2000–2015.
 - Each point is color-coded based on whether the team made the playoffs, won their division, or won the World Series.
 
+![](Images/PayrollsVSWins20002015.png)
+
 This helps visualize whether higher payrolls are associated with postseason success.
 
 3. Payroll Rank vs Win%
-![Alt Text](Images/PayrollsVSWins2000.png)
-
 - Two scatterplots: one including all teams, and one including only playoff teams.
 - These visualizations highlight whether top payroll rankings correspond to higher win percentages.
+
+![](Images/RankVSWinsPlayoffTeams.png)
+![](Images/RankVSWinsAllTeams.png)
 
 4. Team-Specific Trend 
 
 - Two plots showing payroll vs win% and payroll rank vs win% for one specific team from 2000–2015.
 - This helps analyze whether the league-wide correlation between payroll and success holds true for an individual franchise.
+
+![](Images/PayrollsVSWinsRedSox.png)
+![](Images/RankVSWinsRedSox.png)
 
 **2. Data Processing**
 Data was collected and cleaned using Python scraping functions.
@@ -61,46 +70,32 @@ Work Completed to Date:
 - Produced team-specific visualizations to see whether the overall correlation holds for a single franchise.
 
 Planned Modeling Approaches
-In the next phase (November–December), I plan to implement the following models using scikit-learn:
+In the next phase (November–December), I plan to implement the following models:
 
 Linear Regression
-
-To quantify the correlation between Payroll, Payroll Rank, and Win Percentage.
-
-Will help determine how much payroll explains variation in win%.
+- To quantify the correlation between Payroll, Payroll Rank, and Win Percentage.
+- Will help determine how much payroll explains variation in win%.
 
 Decision Tree Classifier (Planned)
-
-To predict binary outcomes such as playoff appearances or division wins.
-
-Evaluation metrics will include Precision, Recall, and ROC-AUC.
+- To predict binary outcomes such as playoff appearances or division wins.
+- Evaluation metrics will include Precision, Recall, and ROC-AUC.
 
 Clustering (Planned)
+- To identify natural groupings of teams based on Payroll, Win Percentage, and Playoff Success.
 
-To identify natural groupings (“spending tiers”) of teams based on Payroll, Win Percentage, and Playoff Success.
-
-
-
-
-
-4. Preliminary Results
+**4. Preliminary Results**
 
 League-Wide Findings:
+There is a weak/moderate correlation between payroll and win percentage.
+Most teams that are top 5 in payroll make the playoffs, while teams in the bottom 5 rarely make it.
+However, several outliers demonstrate that success is possible without top spending (smaller-market teams performing above expectations).
+The World Series champion is almost always in the top half of payroll.
 
-There is a clear positive correlation between payroll and win percentage.
-
-Most playoff and World Series teams fall within the top half of payroll rankings.
-
-However, several outliers demonstrate that success is possible without top spending (e.g., smaller-market teams performing above expectations).
-
-Team-Specific Findings for Boston Red Sox:
-
-The relationship between payroll and win% for the Boston Red Sox is moderate.
-
-Certain seasons show that even with below-average payroll, [Team Name] achieved above-average success, indicating factors beyond payroll (such as player development or management quality) can influence results.
+Team-Specific Findings for the Boston Red Sox:
+The relationship between payroll and win percentage for the Boston Red Sox is moderate/high.
+The Red Sox were in the top 7 every year from 2000-2015, and they won 3 championships. However, they only make the playoffs 6 of the 16 years.
 
 Quantitative Insights:
 
-Pearson correlation between payroll and win%: r = .20
+Correlation between payroll and win%: r = .20
 
-Average payroll of playoff teams: $[value]M vs non-playoff teams $[value]M.
