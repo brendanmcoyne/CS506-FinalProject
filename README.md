@@ -1,6 +1,6 @@
 # CS506 Midterm Report
 
-1. Preliminary Visualizations of Data
+**1. Preliminary Visualizations of Data**
 I created several visualizations to explore the relationship between team payroll and on-field performance from 2000–2015.
 
 1. Win% vs Payroll (2000 and 2015)
@@ -25,49 +25,41 @@ This helps visualize whether higher payrolls are associated with postseason succ
 - Two plots showing payroll vs win% and payroll rank vs win% for one specific team from 2000–2015.
 - This helps analyze whether the league-wide correlation between payroll and success holds true for an individual franchise.
 
-2. Data Processing
-
-- Data was collected and cleaned using Python scraping functions.
+**2. Data Processing**
+Data was collected and cleaned using Python scraping functions.
 
 Data Sources:
-SteveTheUmp: Active roster payroll data for all MLB teams (2000–2015).
-Pro Baseball Reference: Team win–loss records, division placements, and postseason results.
+- SteveTheUmp: Active roster payroll data for all MLB teams (2000–2015).
+- Pro Baseball Reference: Team win–loss records, division placements, and postseason results.
 
 All data was saved into CSV files. 
 
 Data Cleaning Steps:
-
-Combined datasets by year and team name.
-Handled missing data (e.g., removed incomplete seasons).
-Updated team names to present day for consistency 
+- Combined datasets by year and team name.
+- Handled missing data (Added incomplete payroll numbers).
+- Updated team names to present day for consistency 
 Created new features:
-Payroll Rank (rank within league for that season)
-Binary playoff/division/World Series win indicators
-Normalized key numeric fields for modeling.
+- Payroll Rank (rank within league for that season)
+- Binary playoff/division/World Series win indicators
 
 Final Dataset:
+Record Sheet: ~480 total team-seasons (30 teams × 16 years).
+Columns include: Year, League, Division, Team, W, L, Wpct, Playoffs, DivisionWin, WorldSeriesWin
 
-~480 total team-seasons (30 teams × 16 years).
+Payroll Sheet: ~480 total team-seasons (30 teams × 16 years).
+Columns include: Year, Rank, Team, Payroll
 
-Columns include: Team, Year, Payroll, Payroll_Rank, Win_Percentage, Made_Playoffs, Won_Division, Won_WS
-
-
-3. Data Modeling Methods
+**3. Data Modeling Methods**
 
 So far, the focus of the project has been on exploratory data analysis (EDA) and visualization to identify potential relationships between team payroll and success metrics.
 
-Work Completed to Date
-
-Conducted visual analysis through scatterplots of payroll vs. win percentage for 2000 and 2015.
-
-Created a combined scatterplot (2000–2015) showing all teams, color-coded by playoff/division/World Series outcomes.
-
-Generated payroll rank vs win% graphs (for all teams and for playoff teams only).
-
-Produced team-specific visualizations to see whether the overall correlation holds for a single franchise.
+Work Completed to Date:
+- Conducted visual analysis through scatterplots of payroll vs. win percentage for 2000 and 2015.
+- Created a combined scatterplot (2000–2015) showing all teams, color-coded by playoff/division/World Series outcomes.
+- Generated payroll rank vs win% graphs (for all teams and for playoff teams only).
+- Produced team-specific visualizations to see whether the overall correlation holds for a single franchise.
 
 Planned Modeling Approaches
-
 In the next phase (November–December), I plan to implement the following models using scikit-learn:
 
 Linear Regression
@@ -85,6 +77,10 @@ Evaluation metrics will include Precision, Recall, and ROC-AUC.
 Clustering (Planned)
 
 To identify natural groupings (“spending tiers”) of teams based on Payroll, Win Percentage, and Playoff Success.
+
+
+
+
 
 4. Preliminary Results
 
