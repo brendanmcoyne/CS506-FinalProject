@@ -88,12 +88,14 @@ Clustering (Planned)
 **4. Preliminary Results**
 
 League-Wide Findings:
+
 There is a weak/moderate correlation between payroll and win percentage.
 Most teams that are top 5 in payroll make the playoffs, while teams in the bottom 5 rarely make it.
 However, several outliers demonstrate that success is possible without top spending (smaller-market teams performing above expectations).
 The World Series champion is almost always in the top half of payroll.
 
 Team-Specific Findings for the Boston Red Sox:
+
 The relationship between payroll and win percentage for the Boston Red Sox is moderate/high.
 The Red Sox were in the top 7 every year from 2000-2015, and they won 3 championships. However, they only make the playoffs 6 of the 16 years.
 
