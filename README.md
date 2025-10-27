@@ -1,5 +1,11 @@
 # CS506 Midterm Report
 
+**Youtube Link:**
+
+**Overview**
+
+Goal of project: Find a correlation between playoff/team success based on payroll in the MLB. 
+
 **1. Preliminary Visualizations of Data**
 
 I created several visualizations to explore the relationship between team payroll and on-field performance from 2000–2015.
