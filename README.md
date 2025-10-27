@@ -16,6 +16,7 @@ I created several visualizations to explore the relationship between team payrol
 This helps visualize whether higher payrolls are associated with postseason success.
 
 3. Payroll Rank vs Win%
+![Alt Text](Images/PayrollsVSWins2000.png)
 
 - Two scatterplots: one including all teams, and one including only playoff teams.
 - These visualizations highlight whether top payroll rankings correspond to higher win percentages.
