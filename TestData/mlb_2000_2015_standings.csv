@@ -1,578 +1,497 @@
-Year,League,Division,Team,W,L,Wpct
-2000,AL,East Division,Tm,W,L,W-L%
-2000,AL,East Division,New York Yankees,87,74,.540
-2000,AL,East Division,Boston Red Sox,85,77,.525
-2000,AL,East Division,Toronto Blue Jays,83,79,.512
-2000,AL,East Division,Baltimore Orioles,74,88,.457
-2000,AL,East Division,Tampa Bay Rays,69,92,.429
-2000,AL,Central Division,Tm,W,L,W-L%
-2000,AL,Central Division,Chicago White Sox,95,67,.586
-2000,AL,Central Division,Cleveland Guardians,90,72,.556
-2000,AL,Central Division,Detroit Tigers,79,83,.488
-2000,AL,Central Division,Kansas City Royals,77,85,.475
-2000,AL,Central Division,Minnesota Twins,69,93,.426
-2000,AL,West Division,Tm,W,L,W-L%
-2000,AL,West Division,Oakland Athletics,91,70,.565
-2000,AL,West Division,Seattle Mariners,91,71,.562
-2000,AL,West Division,Los Angeles Angels,82,80,.506
-2000,AL,West Division,Texas Rangers,71,91,.438
-2000,NL,East Division,Tm,W,L,W-L%
-2000,NL,East Division,Atlanta Braves,95,67,.586
-2000,NL,East Division,New York Mets,94,68,.580
-2000,NL,East Division,Miami Marlins,79,82,.491
-2000,NL,East Division,Washington Nationals,67,95,.414
-2000,NL,East Division,Philadelphia Phillies,65,97,.401
-2000,NL,Central Division,Tm,W,L,W-L%
-2000,NL,Central Division,St. Louis Cardinals,95,67,.586
-2000,NL,Central Division,Cincinnati Reds,85,77,.525
-2000,NL,Central Division,Milwaukee Brewers,73,89,.451
-2000,NL,Central Division,Houston Astros,72,90,.444
-2000,NL,Central Division,Pittsburgh Pirates,69,93,.426
-2000,NL,Central Division,Chicago Cubs,65,97,.401
-2000,NL,West Division,Tm,W,L,W-L%
-2000,NL,West Division,San Francisco Giants,97,65,.599
-2000,NL,West Division,Los Angeles Dodgers,86,76,.531
-2000,NL,West Division,Arizona Diamondbacks,85,77,.525
-2000,NL,West Division,Colorado Rockies,82,80,.506
-2000,NL,West Division,San Diego Padres,76,86,.469
-2001,AL,East Division,Tm,W,L,W-L%
-2001,AL,East Division,New York Yankees,95,65,.594
-2001,AL,East Division,Boston Red Sox,82,79,.509
-2001,AL,East Division,Toronto Blue Jays,80,82,.494
-2001,AL,East Division,Baltimore Orioles,63,98,.391
-2001,AL,East Division,Tampa Bay Rays,62,100,.383
-2001,AL,Central Division,Tm,W,L,W-L%
-2001,AL,Central Division,Cleveland Guardians,91,71,.562
-2001,AL,Central Division,Minnesota Twins,85,77,.525
-2001,AL,Central Division,Chicago White Sox,83,79,.512
-2001,AL,Central Division,Detroit Tigers,66,96,.407
-2001,AL,Central Division,Kansas City Royals,65,97,.401
-2001,AL,West Division,Tm,W,L,W-L%
-2001,AL,West Division,Seattle Mariners,116,46,.716
-2001,AL,West Division,Oakland Athletics,102,60,.630
-2001,AL,West Division,Los Angeles Angels,75,87,.463
-2001,AL,West Division,Texas Rangers,73,89,.451
-2001,NL,East Division,Tm,W,L,W-L%
-2001,NL,East Division,Atlanta Braves,88,74,.543
-2001,NL,East Division,Philadelphia Phillies,86,76,.531
-2001,NL,East Division,New York Mets,82,80,.506
-2001,NL,East Division,Miami Marlins,76,86,.469
-2001,NL,East Division,Washington Nationals,68,94,.420
-2001,NL,Central Division,Tm,W,L,W-L%
-2001,NL,Central Division,Houston Astros,93,69,.574
-2001,NL,Central Division,St. Louis Cardinals,93,69,.574
-2001,NL,Central Division,Chicago Cubs,88,74,.543
-2001,NL,Central Division,Milwaukee Brewers,68,94,.420
-2001,NL,Central Division,Cincinnati Reds,66,96,.407
-2001,NL,Central Division,Pittsburgh Pirates,62,100,.383
-2001,NL,West Division,Tm,W,L,W-L%
-2001,NL,West Division,Arizona Diamondbacks,92,70,.568
-2001,NL,West Division,San Francisco Giants,90,72,.556
-2001,NL,West Division,Los Angeles Dodgers,86,76,.531
-2001,NL,West Division,San Diego Padres,79,83,.488
-2001,NL,West Division,Colorado Rockies,73,89,.451
-2002,AL,East Division,Tm,W,L,W-L%
-2002,AL,East Division,New York Yankees,103,58,.640
-2002,AL,East Division,Boston Red Sox,93,69,.574
-2002,AL,East Division,Toronto Blue Jays,78,84,.481
-2002,AL,East Division,Baltimore Orioles,67,95,.414
-2002,AL,East Division,Tampa Bay Rays,55,106,.342
-2002,AL,Central Division,Tm,W,L,W-L%
-2002,AL,Central Division,Minnesota Twins,94,67,.584
-2002,AL,Central Division,Chicago White Sox,81,81,.500
-2002,AL,Central Division,Cleveland Guardians,74,88,.457
-2002,AL,Central Division,Kansas City Royals,62,100,.383
-2002,AL,Central Division,Detroit Tigers,55,106,.342
-2002,AL,West Division,Tm,W,L,W-L%
-2002,AL,West Division,Oakland Athletics,103,59,.636
-2002,AL,West Division,Los Angeles Angels,99,63,.611
-2002,AL,West Division,Seattle Mariners,93,69,.574
-2002,AL,West Division,Texas Rangers,72,90,.444
-2002,NL,East Division,Tm,W,L,W-L%
-2002,NL,East Division,Atlanta Braves,101,59,.631
-2002,NL,East Division,Washington Nationals,83,79,.512
-2002,NL,East Division,Philadelphia Phillies,80,81,.497
-2002,NL,East Division,Miami Marlins,79,83,.488
-2002,NL,East Division,New York Mets,75,86,.466
-2002,NL,Central Division,Tm,W,L,W-L%
-2002,NL,Central Division,St. Louis Cardinals,97,65,.599
-2002,NL,Central Division,Houston Astros,84,78,.519
-2002,NL,Central Division,Cincinnati Reds,78,84,.481
-2002,NL,Central Division,Pittsburgh Pirates,72,89,.447
-2002,NL,Central Division,Chicago Cubs,67,95,.414
-2002,NL,Central Division,Milwaukee Brewers,56,106,.346
-2002,NL,West Division,Tm,W,L,W-L%
-2002,NL,West Division,Arizona Diamondbacks,98,64,.605
-2002,NL,West Division,San Francisco Giants,95,66,.590
-2002,NL,West Division,Los Angeles Dodgers,92,70,.568
-2002,NL,West Division,Colorado Rockies,73,89,.451
-2002,NL,West Division,San Diego Padres,66,96,.407
-2003,AL,East Division,Tm,W,L,W-L%
-2003,AL,East Division,New York Yankees,101,61,.623
-2003,AL,East Division,Boston Red Sox,95,67,.586
-2003,AL,East Division,Toronto Blue Jays,86,76,.531
-2003,AL,East Division,Baltimore Orioles,71,91,.438
-2003,AL,East Division,Tampa Bay Rays,63,99,.389
-2003,AL,Central Division,Tm,W,L,W-L%
-2003,AL,Central Division,Minnesota Twins,90,72,.556
-2003,AL,Central Division,Chicago White Sox,86,76,.531
-2003,AL,Central Division,Kansas City Royals,83,79,.512
-2003,AL,Central Division,Cleveland Guardians,68,94,.420
-2003,AL,Central Division,Detroit Tigers,43,119,.265
-2003,AL,West Division,Tm,W,L,W-L%
-2003,AL,West Division,Oakland Athletics,96,66,.593
-2003,AL,West Division,Seattle Mariners,93,69,.574
-2003,AL,West Division,Los Angeles Angels,77,85,.475
-2003,AL,West Division,Texas Rangers,71,91,.438
-2003,NL,East Division,Tm,W,L,W-L%
-2003,NL,East Division,Atlanta Braves,101,61,.623
-2003,NL,East Division,Miami Marlins,91,71,.562
-2003,NL,East Division,Philadelphia Phillies,86,76,.531
-2003,NL,East Division,Washington Nationals,83,79,.512
-2003,NL,East Division,New York Mets,66,95,.410
-2003,NL,Central Division,Tm,W,L,W-L%
-2003,NL,Central Division,Chicago Cubs,88,74,.543
-2003,NL,Central Division,Houston Astros,87,75,.537
-2003,NL,Central Division,St. Louis Cardinals,85,77,.525
-2003,NL,Central Division,Pittsburgh Pirates,75,87,.463
-2003,NL,Central Division,Cincinnati Reds,69,93,.426
-2003,NL,Central Division,Milwaukee Brewers,68,94,.420
-2003,NL,West Division,Tm,W,L,W-L%
-2003,NL,West Division,San Francisco Giants,100,61,.621
-2003,NL,West Division,Los Angeles Dodgers,85,77,.525
-2003,NL,West Division,Arizona Diamondbacks,84,78,.519
-2003,NL,West Division,Colorado Rockies,74,88,.457
-2003,NL,West Division,San Diego Padres,64,98,.395
-2004,AL,East Division,Tm,W,L,W-L%
-2004,AL,East Division,New York Yankees,101,61,.623
-2004,AL,East Division,Boston Red Sox,98,64,.605
-2004,AL,East Division,Baltimore Orioles,78,84,.481
-2004,AL,East Division,Tampa Bay Rays,70,91,.435
-2004,AL,East Division,Toronto Blue Jays,67,94,.416
-2004,AL,Central Division,Tm,W,L,W-L%
-2004,AL,Central Division,Minnesota Twins,92,70,.568
-2004,AL,Central Division,Chicago White Sox,83,79,.512
-2004,AL,Central Division,Cleveland Guardians,80,82,.494
-2004,AL,Central Division,Detroit Tigers,72,90,.444
-2004,AL,Central Division,Kansas City Royals,58,104,.358
-2004,AL,West Division,Tm,W,L,W-L%
-2004,AL,West Division,Los Angeles Angels,92,70,.568
-2004,AL,West Division,Oakland Athletics,91,71,.562
-2004,AL,West Division,Texas Rangers,89,73,.549
-2004,AL,West Division,Seattle Mariners,63,99,.389
-2004,NL,East Division,Tm,W,L,W-L%
-2004,NL,East Division,Atlanta Braves,96,66,.593
-2004,NL,East Division,Philadelphia Phillies,86,76,.531
-2004,NL,East Division,Miami Marlins,83,79,.512
-2004,NL,East Division,New York Mets,71,91,.438
-2004,NL,East Division,Washington Nationals,67,95,.414
-2004,NL,Central Division,Tm,W,L,W-L%
-2004,NL,Central Division,St. Louis Cardinals,105,57,.648
-2004,NL,Central Division,Houston Astros,92,70,.568
-2004,NL,Central Division,Chicago Cubs,89,73,.549
-2004,NL,Central Division,Cincinnati Reds,76,86,.469
-2004,NL,Central Division,Pittsburgh Pirates,72,89,.447
-2004,NL,Central Division,Milwaukee Brewers,67,94,.416
-2004,NL,West Division,Tm,W,L,W-L%
-2004,NL,West Division,Los Angeles Dodgers,93,69,.574
-2004,NL,West Division,San Francisco Giants,91,71,.562
-2004,NL,West Division,San Diego Padres,87,75,.537
-2004,NL,West Division,Colorado Rockies,68,94,.420
-2004,NL,West Division,Arizona Diamondbacks,51,111,.315
-2005,AL,East Division,Tm,W,L,W-L%
-2005,AL,East Division,New York Yankees,95,67,.586
-2005,AL,East Division,Boston Red Sox,95,67,.586
-2005,AL,East Division,Toronto Blue Jays,80,82,.494
-2005,AL,East Division,Baltimore Orioles,74,88,.457
-2005,AL,East Division,Tampa Bay Rays,67,95,.414
-2005,AL,Central Division,Tm,W,L,W-L%
-2005,AL,Central Division,Chicago White Sox,99,63,.611
-2005,AL,Central Division,Cleveland Guardians,93,69,.574
-2005,AL,Central Division,Minnesota Twins,83,79,.512
-2005,AL,Central Division,Detroit Tigers,71,91,.438
-2005,AL,Central Division,Kansas City Royals,56,106,.346
-2005,AL,West Division,Tm,W,L,W-L%
-2005,AL,West Division,Los Angeles Angels,95,67,.586
-2005,AL,West Division,Oakland Athletics,88,74,.543
-2005,AL,West Division,Texas Rangers,79,83,.488
-2005,AL,West Division,Seattle Mariners,69,93,.426
-2005,NL,East Division,Tm,W,L,W-L%
-2005,NL,East Division,Atlanta Braves,90,72,.556
-2005,NL,East Division,Philadelphia Phillies,88,74,.543
-2005,NL,East Division,Miami Marlins,83,79,.512
-2005,NL,East Division,New York Mets,83,79,.512
-2005,NL,East Division,Washington Nationals,81,81,.500
-2005,NL,Central Division,Tm,W,L,W-L%
-2005,NL,Central Division,St. Louis Cardinals,100,62,.617
-2005,NL,Central Division,Houston Astros,89,73,.549
-2005,NL,Central Division,Milwaukee Brewers,81,81,.500
-2005,NL,Central Division,Chicago Cubs,79,83,.488
-2005,NL,Central Division,Cincinnati Reds,73,89,.451
-2005,NL,Central Division,Pittsburgh Pirates,67,95,.414
-2005,NL,West Division,Tm,W,L,W-L%
-2005,NL,West Division,San Diego Padres,82,80,.506
-2005,NL,West Division,Arizona Diamondbacks,77,85,.475
-2005,NL,West Division,San Francisco Giants,75,87,.463
-2005,NL,West Division,Los Angeles Dodgers,71,91,.438
-2005,NL,West Division,Colorado Rockies,67,95,.414
-2006,AL,East Division,Tm,W,L,W-L%
-2006,AL,East Division,New York Yankees,97,65,.599
-2006,AL,East Division,Toronto Blue Jays,87,75,.537
-2006,AL,East Division,Boston Red Sox,86,76,.531
-2006,AL,East Division,Baltimore Orioles,70,92,.432
-2006,AL,East Division,Tampa Bay Rays,61,101,.377
-2006,AL,Central Division,Tm,W,L,W-L%
-2006,AL,Central Division,Minnesota Twins,96,66,.593
-2006,AL,Central Division,Detroit Tigers,95,67,.586
-2006,AL,Central Division,Chicago White Sox,90,72,.556
-2006,AL,Central Division,Cleveland Guardians,78,84,.481
-2006,AL,Central Division,Kansas City Royals,62,100,.383
-2006,AL,West Division,Tm,W,L,W-L%
-2006,AL,West Division,Oakland Athletics,93,69,.574
-2006,AL,West Division,Los Angeles Angels,89,73,.549
-2006,AL,West Division,Texas Rangers,80,82,.494
-2006,AL,West Division,Seattle Mariners,78,84,.481
-2006,NL,East Division,Tm,W,L,W-L%
-2006,NL,East Division,New York Mets,97,65,.599
-2006,NL,East Division,Philadelphia Phillies,85,77,.525
-2006,NL,East Division,Atlanta Braves,79,83,.488
-2006,NL,East Division,Miami Marlins,78,84,.481
-2006,NL,East Division,Washington Nationals,71,91,.438
-2006,NL,Central Division,Tm,W,L,W-L%
-2006,NL,Central Division,St. Louis Cardinals,83,78,.516
-2006,NL,Central Division,Houston Astros,82,80,.506
-2006,NL,Central Division,Cincinnati Reds,80,82,.494
-2006,NL,Central Division,Milwaukee Brewers,75,87,.463
-2006,NL,Central Division,Pittsburgh Pirates,67,95,.414
-2006,NL,Central Division,Chicago Cubs,66,96,.407
-2006,NL,West Division,Tm,W,L,W-L%
-2006,NL,West Division,San Diego Padres,88,74,.543
-2006,NL,West Division,Los Angeles Dodgers,88,74,.543
-2006,NL,West Division,San Francisco Giants,76,85,.472
-2006,NL,West Division,Arizona Diamondbacks,76,86,.469
-2006,NL,West Division,Colorado Rockies,76,86,.469
-2007,AL,East Division,Tm,W,L,W-L%
-2007,AL,East Division,Boston Red Sox,96,66,.593
-2007,AL,East Division,New York Yankees,94,68,.580
-2007,AL,East Division,Toronto Blue Jays,83,79,.512
-2007,AL,East Division,Baltimore Orioles,69,93,.426
-2007,AL,East Division,Tampa Bay Rays,66,96,.407
-2007,AL,Central Division,Tm,W,L,W-L%
-2007,AL,Central Division,Cleveland Guardians,96,66,.593
-2007,AL,Central Division,Detroit Tigers,88,74,.543
-2007,AL,Central Division,Minnesota Twins,79,83,.488
-2007,AL,Central Division,Chicago White Sox,72,90,.444
-2007,AL,Central Division,Kansas City Royals,69,93,.426
-2007,AL,West Division,Tm,W,L,W-L%
-2007,AL,West Division,Los Angeles Angels,94,68,.580
-2007,AL,West Division,Seattle Mariners,88,74,.543
-2007,AL,West Division,Oakland Athletics,76,86,.469
-2007,AL,West Division,Texas Rangers,75,87,.463
-2007,NL,East Division,Tm,W,L,W-L%
-2007,NL,East Division,Philadelphia Phillies,89,73,.549
-2007,NL,East Division,New York Mets,88,74,.543
-2007,NL,East Division,Atlanta Braves,84,78,.519
-2007,NL,East Division,Washington Nationals,73,89,.451
-2007,NL,East Division,Miami Marlins,71,91,.438
-2007,NL,Central Division,Tm,W,L,W-L%
-2007,NL,Central Division,Chicago Cubs,85,77,.525
-2007,NL,Central Division,Milwaukee Brewers,83,79,.512
-2007,NL,Central Division,St. Louis Cardinals,78,84,.481
-2007,NL,Central Division,Houston Astros,73,89,.451
-2007,NL,Central Division,Cincinnati Reds,72,90,.444
-2007,NL,Central Division,Pittsburgh Pirates,68,94,.420
-2007,NL,West Division,Tm,W,L,W-L%
-2007,NL,West Division,Arizona Diamondbacks,90,72,.556
-2007,NL,West Division,Colorado Rockies,90,73,.552
-2007,NL,West Division,San Diego Padres,89,74,.546
-2007,NL,West Division,Los Angeles Dodgers,82,80,.506
-2007,NL,West Division,San Francisco Giants,71,91,.438
-2008,AL,East Division,Tm,W,L,W-L%
-2008,AL,East Division,Tampa Bay Rays,97,65,.599
-2008,AL,East Division,Boston Red Sox,95,67,.586
-2008,AL,East Division,New York Yankees,89,73,.549
-2008,AL,East Division,Toronto Blue Jays,86,76,.531
-2008,AL,East Division,Baltimore Orioles,68,93,.422
-2008,AL,Central Division,Tm,W,L,W-L%
-2008,AL,Central Division,Chicago White Sox,89,74,.546
-2008,AL,Central Division,Minnesota Twins,88,75,.540
-2008,AL,Central Division,Cleveland Guardians,81,81,.500
-2008,AL,Central Division,Kansas City Royals,75,87,.463
-2008,AL,Central Division,Detroit Tigers,74,88,.457
-2008,AL,West Division,Tm,W,L,W-L%
-2008,AL,West Division,Los Angeles Angels,100,62,.617
-2008,AL,West Division,Texas Rangers,79,83,.488
-2008,AL,West Division,Oakland Athletics,75,86,.466
-2008,AL,West Division,Seattle Mariners,61,101,.377
-2008,NL,East Division,Tm,W,L,W-L%
-2008,NL,East Division,Philadelphia Phillies,92,70,.568
-2008,NL,East Division,New York Mets,89,73,.549
-2008,NL,East Division,Miami Marlins,84,77,.522
-2008,NL,East Division,Atlanta Braves,72,90,.444
-2008,NL,East Division,Washington Nationals,59,102,.366
-2008,NL,Central Division,Tm,W,L,W-L%
-2008,NL,Central Division,Chicago Cubs,97,64,.602
-2008,NL,Central Division,Milwaukee Brewers,90,72,.556
-2008,NL,Central Division,Houston Astros,86,75,.534
-2008,NL,Central Division,St. Louis Cardinals,86,76,.531
-2008,NL,Central Division,Cincinnati Reds,74,88,.457
-2008,NL,Central Division,Pittsburgh Pirates,67,95,.414
-2008,NL,West Division,Tm,W,L,W-L%
-2008,NL,West Division,Los Angeles Dodgers,84,78,.519
-2008,NL,West Division,Arizona Diamondbacks,82,80,.506
-2008,NL,West Division,Colorado Rockies,74,88,.457
-2008,NL,West Division,San Francisco Giants,72,90,.444
-2008,NL,West Division,San Diego Padres,63,99,.389
-2009,AL,East Division,Tm,W,L,W-L%
-2009,AL,East Division,New York Yankees,103,59,.636
-2009,AL,East Division,Boston Red Sox,95,67,.586
-2009,AL,East Division,Tampa Bay Rays,84,78,.519
-2009,AL,East Division,Toronto Blue Jays,75,87,.463
-2009,AL,East Division,Baltimore Orioles,64,98,.395
-2009,AL,Central Division,Tm,W,L,W-L%
-2009,AL,Central Division,Minnesota Twins,87,76,.534
-2009,AL,Central Division,Detroit Tigers,86,77,.528
-2009,AL,Central Division,Chicago White Sox,79,83,.488
-2009,AL,Central Division,Cleveland Guardians,65,97,.401
-2009,AL,Central Division,Kansas City Royals,65,97,.401
-2009,AL,West Division,Tm,W,L,W-L%
-2009,AL,West Division,Los Angeles Angels,97,65,.599
-2009,AL,West Division,Texas Rangers,87,75,.537
-2009,AL,West Division,Seattle Mariners,85,77,.525
-2009,AL,West Division,Oakland Athletics,75,87,.463
-2009,NL,East Division,Tm,W,L,W-L%
-2009,NL,East Division,Philadelphia Phillies,93,69,.574
-2009,NL,East Division,Miami Marlins,87,75,.537
-2009,NL,East Division,Atlanta Braves,86,76,.531
-2009,NL,East Division,New York Mets,70,92,.432
-2009,NL,East Division,Washington Nationals,59,103,.364
-2009,NL,Central Division,Tm,W,L,W-L%
-2009,NL,Central Division,St. Louis Cardinals,91,71,.562
-2009,NL,Central Division,Chicago Cubs,83,78,.516
-2009,NL,Central Division,Milwaukee Brewers,80,82,.494
-2009,NL,Central Division,Cincinnati Reds,78,84,.481
-2009,NL,Central Division,Houston Astros,74,88,.457
-2009,NL,Central Division,Pittsburgh Pirates,62,99,.385
-2009,NL,West Division,Tm,W,L,W-L%
-2009,NL,West Division,Los Angeles Dodgers,95,67,.586
-2009,NL,West Division,Colorado Rockies,92,70,.568
-2009,NL,West Division,San Francisco Giants,88,74,.543
-2009,NL,West Division,San Diego Padres,75,87,.463
-2009,NL,West Division,Arizona Diamondbacks,70,92,.432
-2010,AL,East Division,Tm,W,L,W-L%
-2010,AL,East Division,Tampa Bay Rays,96,66,.593
-2010,AL,East Division,New York Yankees,95,67,.586
-2010,AL,East Division,Boston Red Sox,89,73,.549
-2010,AL,East Division,Toronto Blue Jays,85,77,.525
-2010,AL,East Division,Baltimore Orioles,66,96,.407
-2010,AL,Central Division,Tm,W,L,W-L%
-2010,AL,Central Division,Minnesota Twins,94,68,.580
-2010,AL,Central Division,Chicago White Sox,88,74,.543
-2010,AL,Central Division,Detroit Tigers,81,81,.500
-2010,AL,Central Division,Cleveland Guardians,69,93,.426
-2010,AL,Central Division,Kansas City Royals,67,95,.414
-2010,AL,West Division,Tm,W,L,W-L%
-2010,AL,West Division,Texas Rangers,90,72,.556
-2010,AL,West Division,Oakland Athletics,81,81,.500
-2010,AL,West Division,Los Angeles Angels,80,82,.494
-2010,AL,West Division,Seattle Mariners,61,101,.377
-2010,NL,East Division,Tm,W,L,W-L%
-2010,NL,East Division,Philadelphia Phillies,97,65,.599
-2010,NL,East Division,Atlanta Braves,91,71,.562
-2010,NL,East Division,Miami Marlins,80,82,.494
-2010,NL,East Division,New York Mets,79,83,.488
-2010,NL,East Division,Washington Nationals,69,93,.426
-2010,NL,Central Division,Tm,W,L,W-L%
-2010,NL,Central Division,Cincinnati Reds,91,71,.562
-2010,NL,Central Division,St. Louis Cardinals,86,76,.531
-2010,NL,Central Division,Milwaukee Brewers,77,85,.475
-2010,NL,Central Division,Houston Astros,76,86,.469
-2010,NL,Central Division,Chicago Cubs,75,87,.463
-2010,NL,Central Division,Pittsburgh Pirates,57,105,.352
-2010,NL,West Division,Tm,W,L,W-L%
-2010,NL,West Division,San Francisco Giants,92,70,.568
-2010,NL,West Division,San Diego Padres,90,72,.556
-2010,NL,West Division,Colorado Rockies,83,79,.512
-2010,NL,West Division,Los Angeles Dodgers,80,82,.494
-2010,NL,West Division,Arizona Diamondbacks,65,97,.401
-2011,AL,East Division,Tm,W,L,W-L%
-2011,AL,East Division,New York Yankees,97,65,.599
-2011,AL,East Division,Tampa Bay Rays,91,71,.562
-2011,AL,East Division,Boston Red Sox,90,72,.556
-2011,AL,East Division,Toronto Blue Jays,81,81,.500
-2011,AL,East Division,Baltimore Orioles,69,93,.426
-2011,AL,Central Division,Tm,W,L,W-L%
-2011,AL,Central Division,Detroit Tigers,95,67,.586
-2011,AL,Central Division,Cleveland Guardians,80,82,.494
-2011,AL,Central Division,Chicago White Sox,79,83,.488
-2011,AL,Central Division,Kansas City Royals,71,91,.438
-2011,AL,Central Division,Minnesota Twins,63,99,.389
-2011,AL,West Division,Tm,W,L,W-L%
-2011,AL,West Division,Texas Rangers,96,66,.593
-2011,AL,West Division,Los Angeles Angels,86,76,.531
-2011,AL,West Division,Oakland Athletics,74,88,.457
-2011,AL,West Division,Seattle Mariners,67,95,.414
-2011,NL,East Division,Tm,W,L,W-L%
-2011,NL,East Division,Philadelphia Phillies,102,60,.630
-2011,NL,East Division,Atlanta Braves,89,73,.549
-2011,NL,East Division,Washington Nationals,80,81,.497
-2011,NL,East Division,New York Mets,77,85,.475
-2011,NL,East Division,Miami Marlins,72,90,.444
-2011,NL,Central Division,Tm,W,L,W-L%
-2011,NL,Central Division,Milwaukee Brewers,96,66,.593
-2011,NL,Central Division,St. Louis Cardinals,90,72,.556
-2011,NL,Central Division,Cincinnati Reds,79,83,.488
-2011,NL,Central Division,Pittsburgh Pirates,72,90,.444
-2011,NL,Central Division,Chicago Cubs,71,91,.438
-2011,NL,Central Division,Houston Astros,56,106,.346
-2011,NL,West Division,Tm,W,L,W-L%
-2011,NL,West Division,Arizona Diamondbacks,94,68,.580
-2011,NL,West Division,San Francisco Giants,86,76,.531
-2011,NL,West Division,Los Angeles Dodgers,82,79,.509
-2011,NL,West Division,Colorado Rockies,73,89,.451
-2011,NL,West Division,San Diego Padres,71,91,.438
-2012,AL,East Division,Tm,W,L,W-L%
-2012,AL,East Division,New York Yankees,95,67,.586
-2012,AL,East Division,Baltimore Orioles,93,69,.574
-2012,AL,East Division,Tampa Bay Rays,90,72,.556
-2012,AL,East Division,Toronto Blue Jays,73,89,.451
-2012,AL,East Division,Boston Red Sox,69,93,.426
-2012,AL,Central Division,Tm,W,L,W-L%
-2012,AL,Central Division,Detroit Tigers,88,74,.543
-2012,AL,Central Division,Chicago White Sox,85,77,.525
-2012,AL,Central Division,Kansas City Royals,72,90,.444
-2012,AL,Central Division,Cleveland Guardians,68,94,.420
-2012,AL,Central Division,Minnesota Twins,66,96,.407
-2012,AL,West Division,Tm,W,L,W-L%
-2012,AL,West Division,Oakland Athletics,94,68,.580
-2012,AL,West Division,Texas Rangers,93,69,.574
-2012,AL,West Division,Los Angeles Angels,89,73,.549
-2012,AL,West Division,Seattle Mariners,75,87,.463
-2012,NL,East Division,Tm,W,L,W-L%
-2012,NL,East Division,Washington Nationals,98,64,.605
-2012,NL,East Division,Atlanta Braves,94,68,.580
-2012,NL,East Division,Philadelphia Phillies,81,81,.500
-2012,NL,East Division,New York Mets,74,88,.457
-2012,NL,East Division,Miami Marlins,69,93,.426
-2012,NL,Central Division,Tm,W,L,W-L%
-2012,NL,Central Division,Cincinnati Reds,97,65,.599
-2012,NL,Central Division,St. Louis Cardinals,88,74,.543
-2012,NL,Central Division,Milwaukee Brewers,83,79,.512
-2012,NL,Central Division,Pittsburgh Pirates,79,83,.488
-2012,NL,Central Division,Chicago Cubs,61,101,.377
-2012,NL,Central Division,Houston Astros,55,107,.340
-2012,NL,West Division,Tm,W,L,W-L%
-2012,NL,West Division,San Francisco Giants,94,68,.580
-2012,NL,West Division,Los Angeles Dodgers,86,76,.531
-2012,NL,West Division,Arizona Diamondbacks,81,81,.500
-2012,NL,West Division,San Diego Padres,76,86,.469
-2012,NL,West Division,Colorado Rockies,64,98,.395
-2013,AL,East Division,Tm,W,L,W-L%
-2013,AL,East Division,Boston Red Sox,97,65,.599
-2013,AL,East Division,Tampa Bay Rays,92,71,.564
-2013,AL,East Division,Baltimore Orioles,85,77,.525
-2013,AL,East Division,New York Yankees,85,77,.525
-2013,AL,East Division,Toronto Blue Jays,74,88,.457
-2013,AL,Central Division,Tm,W,L,W-L%
-2013,AL,Central Division,Detroit Tigers,93,69,.574
-2013,AL,Central Division,Cleveland Guardians,92,70,.568
-2013,AL,Central Division,Kansas City Royals,86,76,.531
-2013,AL,Central Division,Minnesota Twins,66,96,.407
-2013,AL,Central Division,Chicago White Sox,63,99,.389
-2013,AL,West Division,Tm,W,L,W-L%
-2013,AL,West Division,Oakland Athletics,96,66,.593
-2013,AL,West Division,Texas Rangers,91,72,.558
-2013,AL,West Division,Los Angeles Angels,78,84,.481
-2013,AL,West Division,Seattle Mariners,71,91,.438
-2013,AL,West Division,Houston Astros,51,111,.315
-2013,NL,East Division,Tm,W,L,W-L%
-2013,NL,East Division,Atlanta Braves,96,66,.593
-2013,NL,East Division,Washington Nationals,86,76,.531
-2013,NL,East Division,New York Mets,74,88,.457
-2013,NL,East Division,Philadelphia Phillies,73,89,.451
-2013,NL,East Division,Miami Marlins,62,100,.383
-2013,NL,Central Division,Tm,W,L,W-L%
-2013,NL,Central Division,St. Louis Cardinals,97,65,.599
-2013,NL,Central Division,Pittsburgh Pirates,94,68,.580
-2013,NL,Central Division,Cincinnati Reds,90,72,.556
-2013,NL,Central Division,Milwaukee Brewers,74,88,.457
-2013,NL,Central Division,Chicago Cubs,66,96,.407
-2013,NL,West Division,Tm,W,L,W-L%
-2013,NL,West Division,Los Angeles Dodgers,92,70,.568
-2013,NL,West Division,Arizona Diamondbacks,81,81,.500
-2013,NL,West Division,San Diego Padres,76,86,.469
-2013,NL,West Division,San Francisco Giants,76,86,.469
-2013,NL,West Division,Colorado Rockies,74,88,.457
-2014,AL,East Division,Tm,W,L,W-L%
-2014,AL,East Division,Baltimore Orioles,96,66,.593
-2014,AL,East Division,New York Yankees,84,78,.519
-2014,AL,East Division,Toronto Blue Jays,83,79,.512
-2014,AL,East Division,Tampa Bay Rays,77,85,.475
-2014,AL,East Division,Boston Red Sox,71,91,.438
-2014,AL,Central Division,Tm,W,L,W-L%
-2014,AL,Central Division,Detroit Tigers,90,72,.556
-2014,AL,Central Division,Kansas City Royals,89,73,.549
-2014,AL,Central Division,Cleveland Guardians,85,77,.525
-2014,AL,Central Division,Chicago White Sox,73,89,.451
-2014,AL,Central Division,Minnesota Twins,70,92,.432
-2014,AL,West Division,Tm,W,L,W-L%
-2014,AL,West Division,Los Angeles Angels,98,64,.605
-2014,AL,West Division,Oakland Athletics,88,74,.543
-2014,AL,West Division,Seattle Mariners,87,75,.537
-2014,AL,West Division,Houston Astros,70,92,.432
-2014,AL,West Division,Texas Rangers,67,95,.414
-2014,NL,East Division,Tm,W,L,W-L%
-2014,NL,East Division,Washington Nationals,96,66,.593
-2014,NL,East Division,Atlanta Braves,79,83,.488
-2014,NL,East Division,New York Mets,79,83,.488
-2014,NL,East Division,Miami Marlins,77,85,.475
-2014,NL,East Division,Philadelphia Phillies,73,89,.451
-2014,NL,Central Division,Tm,W,L,W-L%
-2014,NL,Central Division,St. Louis Cardinals,90,72,.556
-2014,NL,Central Division,Pittsburgh Pirates,88,74,.543
-2014,NL,Central Division,Milwaukee Brewers,82,80,.506
-2014,NL,Central Division,Cincinnati Reds,76,86,.469
-2014,NL,Central Division,Chicago Cubs,73,89,.451
-2014,NL,West Division,Tm,W,L,W-L%
-2014,NL,West Division,Los Angeles Dodgers,94,68,.580
-2014,NL,West Division,San Francisco Giants,88,74,.543
-2014,NL,West Division,San Diego Padres,77,85,.475
-2014,NL,West Division,Colorado Rockies,66,96,.407
-2014,NL,West Division,Arizona Diamondbacks,64,98,.395
-2015,AL,East Division,Tm,W,L,W-L%
-2015,AL,East Division,Toronto Blue Jays,93,69,.574
-2015,AL,East Division,New York Yankees,87,75,.537
-2015,AL,East Division,Baltimore Orioles,81,81,.500
-2015,AL,East Division,Tampa Bay Rays,80,82,.494
-2015,AL,East Division,Boston Red Sox,78,84,.481
-2015,AL,Central Division,Tm,W,L,W-L%
-2015,AL,Central Division,Kansas City Royals,95,67,.586
-2015,AL,Central Division,Minnesota Twins,83,79,.512
-2015,AL,Central Division,Cleveland Guardians,81,80,.503
-2015,AL,Central Division,Chicago White Sox,76,86,.469
-2015,AL,Central Division,Detroit Tigers,74,87,.460
-2015,AL,West Division,Tm,W,L,W-L%
-2015,AL,West Division,Texas Rangers,88,74,.543
-2015,AL,West Division,Houston Astros,86,76,.531
-2015,AL,West Division,Los Angeles Angels,85,77,.525
-2015,AL,West Division,Seattle Mariners,76,86,.469
-2015,AL,West Division,Oakland Athletics,68,94,.420
-2015,NL,East Division,Tm,W,L,W-L%
-2015,NL,East Division,New York Mets,90,72,.556
-2015,NL,East Division,Washington Nationals,83,79,.512
-2015,NL,East Division,Miami Marlins,71,91,.438
-2015,NL,East Division,Atlanta Braves,67,95,.414
-2015,NL,East Division,Philadelphia Phillies,63,99,.389
-2015,NL,Central Division,Tm,W,L,W-L%
-2015,NL,Central Division,St. Louis Cardinals,100,62,.617
-2015,NL,Central Division,Pittsburgh Pirates,98,64,.605
-2015,NL,Central Division,Chicago Cubs,97,65,.599
-2015,NL,Central Division,Milwaukee Brewers,68,94,.420
-2015,NL,Central Division,Cincinnati Reds,64,98,.395
-2015,NL,West Division,Tm,W,L,W-L%
-2015,NL,West Division,Los Angeles Dodgers,92,70,.568
-2015,NL,West Division,San Francisco Giants,84,78,.519
-2015,NL,West Division,Arizona Diamondbacks,79,83,.488
-2015,NL,West Division,San Diego Padres,74,88,.457
-2015,NL,West Division,Colorado Rockies,68,94,.420
+Year,League,Division,Team,W,L,Wpct,Playoffs,DivisionWin,WorldSeriesWin
+2000,AL,East Division,New York Yankees,87,74,.540,1,1,1
+2000,AL,East Division,Boston Red Sox,85,77,.525,0,0,0
+2000,AL,East Division,Toronto Blue Jays,83,79,.512,0,0,0
+2000,AL,East Division,Baltimore Orioles,74,88,.457,0,0,0
+2000,AL,East Division,Tampa Bay Rays,69,92,.429,0,0,0
+2000,AL,Central Division,Chicago White Sox,95,67,.586,1,1,0
+2000,AL,Central Division,Cleveland Guardians,90,72,.556,0,0,0
+2000,AL,Central Division,Detroit Tigers,79,83,.488,0,0,0
+2000,AL,Central Division,Kansas City Royals,77,85,.475,0,0,0
+2000,AL,Central Division,Minnesota Twins,69,93,.426,0,0,0
+2000,AL,West Division,Oakland Athletics,91,70,.565,1,1,0
+2000,AL,West Division,Seattle Mariners,91,71,.562,1,0,0
+2000,AL,West Division,Los Angeles Angels,82,80,.506,0,0,0
+2000,AL,West Division,Texas Rangers,71,91,.438,0,0,0
+2000,NL,East Division,Atlanta Braves,95,67,.586,1,1,0
+2000,NL,East Division,New York Mets,94,68,.580,1,0,0
+2000,NL,East Division,Miami Marlins,79,82,.491,0,0,0
+2000,NL,East Division,Washington Nationals,67,95,.414,0,0,0
+2000,NL,East Division,Philadelphia Phillies,65,97,.401,0,0,0
+2000,NL,Central Division,St. Louis Cardinals,95,67,.586,1,1,0
+2000,NL,Central Division,Cincinnati Reds,85,77,.525,0,0,0
+2000,NL,Central Division,Milwaukee Brewers,73,89,.451,0,0,0
+2000,NL,Central Division,Houston Astros,72,90,.444,0,0,0
+2000,NL,Central Division,Pittsburgh Pirates,69,93,.426,0,0,0
+2000,NL,Central Division,Chicago Cubs,65,97,.401,0,0,0
+2000,NL,West Division,San Francisco Giants,97,65,.599,1,1,0
+2000,NL,West Division,Los Angeles Dodgers,86,76,.531,0,0,0
+2000,NL,West Division,Arizona Diamondbacks,85,77,.525,0,0,0
+2000,NL,West Division,Colorado Rockies,82,80,.506,0,0,0
+2000,NL,West Division,San Diego Padres,76,86,.469,0,0,0
+
+2001,AL,East Division,New York Yankees,95,65,.594,1,1,0
+2001,AL,East Division,Boston Red Sox,82,79,.509,0,0,0
+2001,AL,East Division,Toronto Blue Jays,80,82,.494,0,0,0
+2001,AL,East Division,Baltimore Orioles,63,98,.391,0,0,0
+2001,AL,East Division,Tampa Bay Rays,62,100,.383,0,0,0
+2001,AL,Central Division,Cleveland Guardians,91,71,.562,1,1,0
+2001,AL,Central Division,Minnesota Twins,85,77,.525,0,0,0
+2001,AL,Central Division,Chicago White Sox,83,79,.512,0,0,0
+2001,AL,Central Division,Detroit Tigers,66,96,.407,0,0,0
+2001,AL,Central Division,Kansas City Royals,65,97,.401,0,0,0
+2001,AL,West Division,Seattle Mariners,116,46,.716,1,1,0
+2001,AL,West Division,Oakland Athletics,102,60,.630,1,0,0
+2001,AL,West Division,Los Angeles Angels,75,87,.463,0,0,0
+2001,AL,West Division,Texas Rangers,73,89,.451,0,0,0
+2001,NL,East Division,Atlanta Braves,88,74,.543,1,1,0
+2001,NL,East Division,Philadelphia Phillies,86,76,.531,0,0,0
+2001,NL,East Division,New York Mets,82,80,.506,0,0,0
+2001,NL,East Division,Miami Marlins,76,86,.469,0,0,0
+2001,NL,East Division,Washington Nationals,68,94,.42,0,0,00
+2001,NL,Central Division,Houston Astros,93,69,.574,1,1,0
+2001,NL,Central Division,St. Louis Cardinals,93,69,.574,1,0,0
+2001,NL,Central Division,Chicago Cubs,88,74,.543,0,0,0
+2001,NL,Central Division,Milwaukee Brewers,68,94,.420,0,0,0
+2001,NL,Central Division,Cincinnati Reds,66,96,.407,0,0,0
+2001,NL,Central Division,Pittsburgh Pirates,62,100,.383,0,0,0
+2001,NL,West Division,Arizona Diamondbacks,92,70,.568,1,1,1
+2001,NL,West Division,San Francisco Giants,90,72,.556,0,0,0
+2001,NL,West Division,Los Angeles Dodgers,86,76,.531,0,0,0
+2001,NL,West Division,San Diego Padres,79,83,.488,0,0,0
+2001,NL,West Division,Colorado Rockies,73,89,.451,0,0,0
+
+2002,AL,East Division,New York Yankees,103,58,.640,1,1,0
+2002,AL,East Division,Boston Red Sox,93,69,.574,0,0,0
+2002,AL,East Division,Toronto Blue Jays,78,84,.481,0,0,0
+2002,AL,East Division,Baltimore Orioles,67,95,.414,0,0,0
+2002,AL,East Division,Tampa Bay Rays,55,106,.342,0,0,0
+2002,AL,Central Division,Minnesota Twins,94,67,.584,1,1,0
+2002,AL,Central Division,Chicago White Sox,81,81,.500,0,0,0
+2002,AL,Central Division,Cleveland Guardians,74,88,.457,0,0,0
+2002,AL,Central Division,Kansas City Royals,62,100,.383,0,0,0
+2002,AL,Central Division,Detroit Tigers,55,106,.342,0,0,0
+2002,AL,West Division,Oakland Athletics,103,59,.636,1,1,0
+2002,AL,West Division,Los Angeles Angels,99,63,.611,1,0,1
+2002,AL,West Division,Seattle Mariners,93,69,.574,0,0,0
+2002,AL,West Division,Texas Rangers,72,90,.444,0,0,0
+2002,NL,East Division,Atlanta Braves,101,59,.631,1,1,0
+2002,NL,East Division,Washington Nationals,83,79,.512,0,0,0
+2002,NL,East Division,Philadelphia Phillies,80,81,.497,0,0,0
+2002,NL,East Division,Miami Marlins,79,83,.488,0,0,0
+2002,NL,East Division,New York Mets,75,86,.466,0,0,0
+2002,NL,Central Division,St. Louis Cardinals,97,65,.599,1,1,0
+2002,NL,Central Division,Houston Astros,84,78,.519,0,0,0
+2002,NL,Central Division,Cincinnati Reds,78,84,.481,0,0,0
+2002,NL,Central Division,Pittsburgh Pirates,72,89,.447,0,0,0
+2002,NL,Central Division,Chicago Cubs,67,95,.414,0,0,0
+2002,NL,Central Division,Milwaukee Brewers,56,106,.346,0,0,0
+2002,NL,West Division,Arizona Diamondbacks,98,64,.605,1,1,0
+2002,NL,West Division,San Francisco Giants,95,66,.590,1,0,0
+2002,NL,West Division,Los Angeles Dodgers,92,70,.568,0,0,0
+2002,NL,West Division,Colorado Rockies,73,89,.451,0,0,0
+2002,NL,West Division,San Diego Padres,66,96,.407,0,0,0
+
+2003,AL,East Division,New York Yankees,101,61,.623,1,1,0
+2003,AL,East Division,Boston Red Sox,95,67,.586,1,0,0
+2003,AL,East Division,Toronto Blue Jays,86,76,.531,0,0,0
+2003,AL,East Division,Baltimore Orioles,71,91,.438,0,0,0
+2003,AL,East Division,Tampa Bay Rays,63,99,.389,0,0,0
+2003,AL,Central Division,Minnesota Twins,90,72,.556,1,1,0
+2003,AL,Central Division,Chicago White Sox,86,76,.531,0,0,0
+2003,AL,Central Division,Kansas City Royals,83,79,.512,0,0,0
+2003,AL,Central Division,Cleveland Guardians,68,94,.420,0,0,0
+2003,AL,Central Division,Detroit Tigers,43,119,.265,0,0,0
+2003,AL,West Division,Oakland Athletics,96,66,.593,1,1,0
+2003,AL,West Division,Seattle Mariners,93,69,.574,0,0,0
+2003,AL,West Division,Los Angeles Angels,77,85,.475,0,0,0
+2003,AL,West Division,Texas Rangers,71,91,.438,0,0,0
+2003,NL,East Division,Atlanta Braves,101,61,.623,1,1,0
+2003,NL,East Division,Miami Marlins,91,71,.562,1,0,1
+2003,NL,East Division,Philadelphia Phillies,86,76,.531,0,0,0
+2003,NL,East Division,Washington Nationals,83,79,.512,0,0,0
+2003,NL,East Division,New York Mets,66,95,.410,0,0,0
+2003,NL,Central Division,Chicago Cubs,88,74,.543,1,1,0
+2003,NL,Central Division,Houston Astros,87,75,.537,0,0,0
+2003,NL,Central Division,St. Louis Cardinals,85,77,.525,0,0,0
+2003,NL,Central Division,Pittsburgh Pirates,75,87,.463,0,0,0
+2003,NL,Central Division,Cincinnati Reds,69,93,.426,0,0,0
+2003,NL,Central Division,Milwaukee Brewers,68,94,.420,0,0,0
+2003,NL,West Division,San Francisco Giants,100,61,.621,1,1,0
+2003,NL,West Division,Los Angeles Dodgers,85,77,.525,0,0,0
+2003,NL,West Division,Arizona Diamondbacks,84,78,.519,0,0,0
+2003,NL,West Division,Colorado Rockies,74,88,.457,0,0,0
+2003,NL,West Division,San Diego Padres,64,98,.395,0,0,0
+
+2004,AL,East Division,New York Yankees,101,61,.623,1,1,0
+2004,AL,East Division,Boston Red Sox,98,64,.605,1,0,1
+2004,AL,East Division,Baltimore Orioles,78,84,.481,0,0,0
+2004,AL,East Division,Tampa Bay Rays,70,91,.435,0,0,0
+2004,AL,East Division,Toronto Blue Jays,67,94,.416,0,0,0
+2004,AL,Central Division,Minnesota Twins,92,70,.568,1,1,0
+2004,AL,Central Division,Chicago White Sox,83,79,.512,0,0,0
+2004,AL,Central Division,Cleveland Guardians,80,82,.494,0,0,0
+2004,AL,Central Division,Detroit Tigers,72,90,.444,0,0,0
+2004,AL,Central Division,Kansas City Royals,58,104,.358,0,0,0
+2004,AL,West Division,Los Angeles Angels,92,70,.568,1,1,0
+2004,AL,West Division,Oakland Athletics,91,71,.562,0,0,0
+2004,AL,West Division,Texas Rangers,89,73,.549,0,0,0
+2004,AL,West Division,Seattle Mariners,63,99,.389,0,0,0
+2004,NL,East Division,Atlanta Braves,96,66,.593,1,1,0
+2004,NL,East Division,Philadelphia Phillies,86,76,.531,0,0,0
+2004,NL,East Division,Miami Marlins,83,79,.512,0,0,0
+2004,NL,East Division,New York Mets,71,91,.438,0,0,0
+2004,NL,East Division,Washington Nationals,67,95,.41,0,0,04
+2004,NL,Central Division,St. Louis Cardinals,105,57,.648,1,1,0
+2004,NL,Central Division,Houston Astros,92,70,.568,1,0,0
+2004,NL,Central Division,Chicago Cubs,89,73,.549,0,0,0
+2004,NL,Central Division,Cincinnati Reds,76,86,.469,0,0,0
+2004,NL,Central Division,Pittsburgh Pirates,72,89,.447,0,0,0
+2004,NL,Central Division,Milwaukee Brewers,67,94,.416,0,0,0
+2004,NL,West Division,Los Angeles Dodgers,93,69,.574,1,1,0
+2004,NL,West Division,San Francisco Giants,91,71,.562,0,0,0
+2004,NL,West Division,San Diego Padres,87,75,.537,0,0,0
+2004,NL,West Division,Colorado Rockies,68,94,.420,0,0,0
+2004,NL,West Division,Arizona Diamondbacks,51,111,.315,0,0,0
+
+2005,AL,East Division,New York Yankees,95,67,.586,1,1,0
+2005,AL,East Division,Boston Red Sox,95,67,.586,1,0,0
+2005,AL,East Division,Toronto Blue Jays,80,82,.494,0,0,0
+2005,AL,East Division,Baltimore Orioles,74,88,.457,0,0,0
+2005,AL,East Division,Tampa Bay Rays,67,95,.414,0,0,0
+2005,AL,Central Division,Chicago White Sox,99,63,.611,1,1,1
+2005,AL,Central Division,Cleveland Guardians,93,69,.574,0,0,0
+2005,AL,Central Division,Minnesota Twins,83,79,.512,0,0,0
+2005,AL,Central Division,Detroit Tigers,71,91,.438,0,0,0
+2005,AL,Central Division,Kansas City Royals,56,106,.346,0,0,0
+2005,AL,West Division,Los Angeles Angels,95,67,.586,1,1,0
+2005,AL,West Division,Oakland Athletics,88,74,.543,0,0,0
+2005,AL,West Division,Texas Rangers,79,83,.488,0,0,0
+2005,AL,West Division,Seattle Mariners,69,93,.426,0,0,0
+2005,NL,East Division,Atlanta Braves,90,72,.556,1,1,0
+2005,NL,East Division,Philadelphia Phillies,88,74,.543,0,0,0
+2005,NL,East Division,Miami Marlins,83,79,.512,0,0,0
+2005,NL,East Division,New York Mets,83,79,.512,0,0,0
+2005,NL,East Division,Washington Nationals,81,81,.500,0,0,0
+2005,NL,Central Division,St. Louis Cardinals,100,62,.617,1,1,0
+2005,NL,Central Division,Houston Astros,89,73,.549,1,0,0
+2005,NL,Central Division,Milwaukee Brewers,81,81,.500,0,0,0
+2005,NL,Central Division,Chicago Cubs,79,83,.488,0,0,0
+2005,NL,Central Division,Cincinnati Reds,73,89,.451,0,0,0
+2005,NL,Central Division,Pittsburgh Pirates,67,95,.414,0,0,0
+2005,NL,West Division,San Diego Padres,82,80,.506,1,1,0
+2005,NL,West Division,Arizona Diamondbacks,77,85,.475,0,0,0
+2005,NL,West Division,San Francisco Giants,75,87,.463,0,0,0
+2005,NL,West Division,Los Angeles Dodgers,71,91,.438,0,0,0
+2005,NL,West Division,Colorado Rockies,67,95,.414,0,0,0
+
+2006,AL,East Division,New York Yankees,97,65,.599,1,1,0
+2006,AL,East Division,Toronto Blue Jays,87,75,.537,0,0,0
+2006,AL,East Division,Boston Red Sox,86,76,.531,0,0,0
+2006,AL,East Division,Baltimore Orioles,70,92,.432,0,0,0
+2006,AL,East Division,Tampa Bay Rays,61,101,.377,0,0,0
+2006,AL,Central Division,Minnesota Twins,96,66,.593,1,1,0
+2006,AL,Central Division,Detroit Tigers,95,67,.586,1,0,0
+2006,AL,Central Division,Chicago White Sox,90,72,.556,0,0,0
+2006,AL,Central Division,Cleveland Guardians,78,84,.481,0,0,0
+2006,AL,Central Division,Kansas City Royals,62,100,.383,0,0,0
+2006,AL,West Division,Oakland Athletics,93,69,.574,1,1,0
+2006,AL,West Division,Los Angeles Angels,89,73,.549,0,0,0
+2006,AL,West Division,Texas Rangers,80,82,.494,0,0,0
+2006,AL,West Division,Seattle Mariners,78,84,.481,0,0,0
+2006,NL,East Division,New York Mets,97,65,.599,1,1,0
+2006,NL,East Division,Philadelphia Phillies,85,77,.525,0,0,0
+2006,NL,East Division,Atlanta Braves,79,83,.488,0,0,0
+2006,NL,East Division,Miami Marlins,78,84,.481,0,0,0
+2006,NL,East Division,Washington Nationals,71,91,.438,0,0,0
+2006,NL,Central Division,St. Louis Cardinals,83,78,.516,1,1,1
+2006,NL,Central Division,Houston Astros,82,80,.506,0,0,0
+2006,NL,Central Division,Cincinnati Reds,80,82,.494,0,0,0
+2006,NL,Central Division,Milwaukee Brewers,75,87,.463,0,0,0
+2006,NL,Central Division,Pittsburgh Pirates,67,95,.414,0,0,0
+2006,NL,Central Division,Chicago Cubs,66,96,.407,0,0,0
+2006,NL,West Division,San Diego Padres,88,74,.543,1,1,0
+2006,NL,West Division,Los Angeles Dodgers,88,74,.543,1,0,0
+2006,NL,West Division,San Francisco Giants,76,85,.472,0,0,0
+2006,NL,West Division,Arizona Diamondbacks,76,86,.469,0,0,0
+2006,NL,West Division,Colorado Rockies,76,86,.469,0,0,0
+
+2007,AL,East Division,Boston Red Sox,96,66,.593,1,1,1
+2007,AL,East Division,New York Yankees,94,68,.580,1,0,0
+2007,AL,East Division,Toronto Blue Jays,83,79,.512,0,0,0
+2007,AL,East Division,Baltimore Orioles,69,93,.426,0,0,0
+2007,AL,East Division,Tampa Bay Rays,66,96,.407,0,0,0
+2007,AL,Central Division,Cleveland Guardians,96,66,.593,1,1,0
+2007,AL,Central Division,Detroit Tigers,88,74,.543,0,0,0
+2007,AL,Central Division,Minnesota Twins,79,83,.488,0,0,0
+2007,AL,Central Division,Chicago White Sox,72,90,.444,0,0,0
+2007,AL,Central Division,Kansas City Royals,69,93,.426,0,0,0
+2007,AL,West Division,Los Angeles Angels,94,68,.580,1,1,0
+2007,AL,West Division,Seattle Mariners,88,74,.543,0,0,0
+2007,AL,West Division,Oakland Athletics,76,86,.469,0,0,0
+2007,AL,West Division,Texas Rangers,75,87,.463,0,0,0
+2007,NL,East Division,Philadelphia Phillies,89,73,.549,1,1,0
+2007,NL,East Division,New York Mets,88,74,.543,0,0,0
+2007,NL,East Division,Atlanta Braves,84,78,.519,0,0,0
+2007,NL,East Division,Washington Nationals,73,89,.451,0,0,0
+2007,NL,East Division,Miami Marlins,71,91,.438,0,0,0
+2007,NL,Central Division,Chicago Cubs,85,77,.525,1,1,0
+2007,NL,Central Division,Milwaukee Brewers,83,79,.512,0,0,0
+2007,NL,Central Division,St. Louis Cardinals,78,84,.481,0,0,0
+2007,NL,Central Division,Houston Astros,73,89,.451,0,0,0
+2007,NL,Central Division,Cincinnati Reds,72,90,.444,0,0,0
+2007,NL,Central Division,Pittsburgh Pirates,68,94,.420,0,0,0
+2007,NL,West Division,Arizona Diamondbacks,90,72,.556,1,1,0
+2007,NL,West Division,Colorado Rockies,90,73,.552,1,0,0
+2007,NL,West Division,San Diego Padres,89,74,.546,0,0,0
+2007,NL,West Division,Los Angeles Dodgers,82,80,.506,0,0,0
+2007,NL,West Division,San Francisco Giants,71,91,.438,0,0,0
+
+2008,AL,East Division,Tampa Bay Rays,97,65,.599,1,1,0
+2008,AL,East Division,Boston Red Sox,95,67,.586,1,0,0
+2008,AL,East Division,New York Yankees,89,73,.549,0,0,0
+2008,AL,East Division,Toronto Blue Jays,86,76,.531,0,0,0
+2008,AL,East Division,Baltimore Orioles,68,93,.422,0,0,0
+2008,AL,Central Division,Chicago White Sox,89,74,.546,1,1,0
+2008,AL,Central Division,Minnesota Twins,88,75,.540,0,0,0
+2008,AL,Central Division,Cleveland Guardians,81,81,.500,0,0,0
+2008,AL,Central Division,Kansas City Royals,75,87,.463,0,0,0
+2008,AL,Central Division,Detroit Tigers,74,88,.457,0,0,0
+2008,AL,West Division,Los Angeles Angels,100,62,.617,1,1,0
+2008,AL,West Division,Texas Rangers,79,83,.488,0,0,0
+2008,AL,West Division,Oakland Athletics,75,86,.466,0,0,0
+2008,AL,West Division,Seattle Mariners,61,101,.377,0,0,0
+2008,NL,East Division,Philadelphia Phillies,92,70,.568,1,1,1
+2008,NL,East Division,New York Mets,89,73,.549,0,0,0
+2008,NL,East Division,Miami Marlins,84,77,.522,0,0,0
+2008,NL,East Division,Atlanta Braves,72,90,.444,0,0,0
+2008,NL,East Division,Washington Nationals,59,102,.366,0,0,0
+2008,NL,Central Division,Chicago Cubs,97,64,.602,1,1,0
+2008,NL,Central Division,Milwaukee Brewers,90,72,.556,1,0,0
+2008,NL,Central Division,Houston Astros,86,75,.534,0,0,0
+2008,NL,Central Division,St. Louis Cardinals,86,76,.531,0,0,0
+2008,NL,Central Division,Cincinnati Reds,74,88,.457,0,0,0
+2008,NL,Central Division,Pittsburgh Pirates,67,95,.414,0,0,0
+2008,NL,West Division,Los Angeles Dodgers,84,78,.519,1,1,0
+2008,NL,West Division,Arizona Diamondbacks,82,80,.506,0,0,0
+2008,NL,West Division,Colorado Rockies,74,88,.457,0,0,0
+2008,NL,West Division,San Francisco Giants,72,90,.444,0,0,0
+2008,NL,West Division,San Diego Padres,63,99,.389,0,0,0
+
+2009,AL,East Division,New York Yankees,103,59,.636,1,1,1
+2009,AL,East Division,Boston Red Sox,95,67,.586,1,0,0
+2009,AL,East Division,Tampa Bay Rays,84,78,.519,0,0,0
+2009,AL,East Division,Toronto Blue Jays,75,87,.463,0,0,0
+2009,AL,East Division,Baltimore Orioles,64,98,.395,0,0,0
+2009,AL,Central Division,Minnesota Twins,87,76,.534,1,1,0
+2009,AL,Central Division,Detroit Tigers,86,77,.528,0,0,0
+2009,AL,Central Division,Chicago White Sox,79,83,.488,0,0,0
+2009,AL,Central Division,Cleveland Guardians,65,97,.401,0,0,0
+2009,AL,Central Division,Kansas City Royals,65,97,.401,0,0,0
+2009,AL,West Division,Los Angeles Angels,97,65,.599,1,1,0
+2009,AL,West Division,Texas Rangers,87,75,.537,0,0,0
+2009,AL,West Division,Seattle Mariners,85,77,.525,0,0,0
+2009,AL,West Division,Oakland Athletics,75,87,.463,0,0,0
+2009,NL,East Division,Philadelphia Phillies,93,69,.574,1,1,0
+2009,NL,East Division,Miami Marlins,87,75,.537,0,0,0
+2009,NL,East Division,Atlanta Braves,86,76,.531,0,0,0
+2009,NL,East Division,New York Mets,70,92,.432,0,0,0
+2009,NL,East Division,Washington Nationals,59,103,.364,0,0,0
+2009,NL,Central Division,St. Louis Cardinals,91,71,.562,1,1,0
+2009,NL,Central Division,Chicago Cubs,83,78,.516,0,0,0
+2009,NL,Central Division,Milwaukee Brewers,80,82,.494,0,0,0
+2009,NL,Central Division,Cincinnati Reds,78,84,.481,0,0,0
+2009,NL,Central Division,Houston Astros,74,88,.457,0,0,0
+2009,NL,Central Division,Pittsburgh Pirates,62,99,.385,0,0,0
+2009,NL,West Division,Los Angeles Dodgers,95,67,.586,1,1,0
+2009,NL,West Division,Colorado Rockies,92,70,.568,1,0,0
+2009,NL,West Division,San Francisco Giants,88,74,.543,0,0,0
+2009,NL,West Division,San Diego Padres,75,87,.463,0,0,0
+2009,NL,West Division,Arizona Diamondbacks,70,92,.432,0,0,0
+
+2010,AL,East Division,Tampa Bay Rays,96,66,.593,1,1,0
+2010,AL,East Division,New York Yankees,95,67,.586,1,0,0
+2010,AL,East Division,Boston Red Sox,89,73,.549,0,0,0
+2010,AL,East Division,Toronto Blue Jays,85,77,.525,0,0,0
+2010,AL,East Division,Baltimore Orioles,66,96,.407,0,0,0
+2010,AL,Central Division,Minnesota Twins,94,68,.580,1,1,0
+2010,AL,Central Division,Chicago White Sox,88,74,.543,0,0,0
+2010,AL,Central Division,Detroit Tigers,81,81,.500,0,0,0
+2010,AL,Central Division,Cleveland Guardians,69,93,.426,0,0,0
+2010,AL,Central Division,Kansas City Royals,67,95,.414,0,0,0
+2010,AL,West Division,Texas Rangers,90,72,.556,1,1,0
+2010,AL,West Division,Oakland Athletics,81,81,.500,0,0,0
+2010,AL,West Division,Los Angeles Angels,80,82,.494,0,0,0
+2010,AL,West Division,Seattle Mariners,61,101,.377,0,0,0
+2010,NL,East Division,Philadelphia Phillies,97,65,.599,1,1,0
+2010,NL,East Division,Atlanta Braves,91,71,.562,1,0,0
+2010,NL,East Division,Miami Marlins,80,82,.494,0,0,0
+2010,NL,East Division,New York Mets,79,83,.488,0,0,0
+2010,NL,East Division,Washington Nationals,69,93,.426,0,0,0
+2010,NL,Central Division,Cincinnati Reds,91,71,.562,1,1,0
+2010,NL,Central Division,St. Louis Cardinals,86,76,.531,0,0,0
+2010,NL,Central Division,Milwaukee Brewers,77,85,.475,0,0,0
+2010,NL,Central Division,Houston Astros,76,86,.469,0,0,0
+2010,NL,Central Division,Chicago Cubs,75,87,.463,0,0,0
+2010,NL,Central Division,Pittsburgh Pirates,57,105,.352,0,0,0
+2010,NL,West Division,San Francisco Giants,92,70,.568,1,1,1
+2010,NL,West Division,San Diego Padres,90,72,.556,0,0,0
+2010,NL,West Division,Colorado Rockies,83,79,.512,0,0,0
+2010,NL,West Division,Los Angeles Dodgers,80,82,.494,0,0,0
+2010,NL,West Division,Arizona Diamondbacks,65,97,.401,0,0,0
+
+2011,AL,East Division,New York Yankees,97,65,.599,1,1,0
+2011,AL,East Division,Tampa Bay Rays,91,71,.562,1,0,0
+2011,AL,East Division,Boston Red Sox,90,72,.556,0,0,0
+2011,AL,East Division,Toronto Blue Jays,81,81,.500,0,0,0
+2011,AL,East Division,Baltimore Orioles,69,93,.426,0,0,0
+2011,AL,Central Division,Detroit Tigers,95,67,.586,1,1,0
+2011,AL,Central Division,Cleveland Guardians,80,82,.494,0,0,0
+2011,AL,Central Division,Chicago White Sox,79,83,.488,0,0,0
+2011,AL,Central Division,Kansas City Royals,71,91,.438,0,0,0
+2011,AL,Central Division,Minnesota Twins,63,99,.389,0,0,0
+2011,AL,West Division,Texas Rangers,96,66,.593,1,1,0
+2011,AL,West Division,Los Angeles Angels,86,76,.531,0,0,0
+2011,AL,West Division,Oakland Athletics,74,88,.457,0,0,0
+2011,AL,West Division,Seattle Mariners,67,95,.414,0,0,0
+2011,NL,East Division,Philadelphia Phillies,102,60,.630,1,1,0
+2011,NL,East Division,Atlanta Braves,89,73,.549,0,0,0
+2011,NL,East Division,Washington Nationals,80,81,.497,0,0,0
+2011,NL,East Division,New York Mets,77,85,.475,0,0,0
+2011,NL,East Division,Miami Marlins,72,90,.444,0,0,0
+2011,NL,Central Division,Milwaukee Brewers,96,66,.593,1,1,0
+2011,NL,Central Division,St. Louis Cardinals,90,72,.556,1,0,1
+2011,NL,Central Division,Cincinnati Reds,79,83,.488,0,0,0
+2011,NL,Central Division,Pittsburgh Pirates,72,90,.444,0,0,0
+2011,NL,Central Division,Chicago Cubs,71,91,.438,0,0,0
+2011,NL,Central Division,Houston Astros,56,106,.346,0,0,0
+2011,NL,West Division,Arizona Diamondbacks,94,68,.580,1,1,0
+2011,NL,West Division,San Francisco Giants,86,76,.531,0,0,0
+2011,NL,West Division,Los Angeles Dodgers,82,79,.509,0,0,0
+2011,NL,West Division,Colorado Rockies,73,89,.451,0,0,0
+2011,NL,West Division,San Diego Padres,71,91,.438,0,0,0
+
+2012,AL,East Division,New York Yankees,95,67,.586,1,1,0
+2012,AL,East Division,Baltimore Orioles,93,69,.574,1,0,0
+2012,AL,East Division,Tampa Bay Rays,90,72,.556,0,0,0
+2012,AL,East Division,Toronto Blue Jays,73,89,.451,0,0,0
+2012,AL,East Division,Boston Red Sox,69,93,.426,0,0,0
+2012,AL,Central Division,Detroit Tigers,88,74,.543,1,1,0
+2012,AL,Central Division,Chicago White Sox,85,77,.525,0,0,0
+2012,AL,Central Division,Kansas City Royals,72,90,.444,0,0,0
+2012,AL,Central Division,Cleveland Guardians,68,94,.420,0,0,0
+2012,AL,Central Division,Minnesota Twins,66,96,.407,0,0,0
+2012,AL,West Division,Oakland Athletics,94,68,.580,1,1,0
+2012,AL,West Division,Texas Rangers,93,69,.574,1,0,0
+2012,AL,West Division,Los Angeles Angels,89,73,.549,0,0,0
+2012,AL,West Division,Seattle Mariners,75,87,.463,0,0,0
+2012,NL,East Division,Washington Nationals,98,64,.605,1,1,0
+2012,NL,East Division,Atlanta Braves,94,68,.580,1,0,0
+2012,NL,East Division,Philadelphia Phillies,81,81,.500,0,0,0
+2012,NL,East Division,New York Mets,74,88,.457,0,0,0
+2012,NL,East Division,Miami Marlins,69,93,.426,0,0,0
+2012,NL,Central Division,Cincinnati Reds,97,65,.599,1,1,0
+2012,NL,Central Division,St. Louis Cardinals,88,74,.543,1,0,0
+2012,NL,Central Division,Milwaukee Brewers,83,79,.512,0,0,0
+2012,NL,Central Division,Pittsburgh Pirates,79,83,.488,0,0,0
+2012,NL,Central Division,Chicago Cubs,61,101,.377,0,0,0
+2012,NL,Central Division,Houston Astros,55,107,.340,0,0,0
+2012,NL,West Division,San Francisco Giants,94,68,.580,1,1,1
+2012,NL,West Division,Los Angeles Dodgers,86,76,.531,0,0,0
+2012,NL,West Division,Arizona Diamondbacks,81,81,.500,0,0,0
+2012,NL,West Division,San Diego Padres,76,86,.469,0,0,0
+2012,NL,West Division,Colorado Rockies,64,98,.395,0,0,0
+
+2013,AL,East Division,Boston Red Sox,97,65,.599,1,1,1
+2013,AL,East Division,Tampa Bay Rays,92,71,.564,1,0,0
+2013,AL,East Division,Baltimore Orioles,85,77,.525,0,0,0
+2013,AL,East Division,New York Yankees,85,77,.525,0,0,0
+2013,AL,East Division,Toronto Blue Jays,74,88,.457,0,0,0
+2013,AL,Central Division,Detroit Tigers,93,69,.574,1,1,0
+2013,AL,Central Division,Cleveland Guardians,92,70,.568,1,0,0
+2013,AL,Central Division,Kansas City Royals,86,76,.531,0,0,0
+2013,AL,Central Division,Minnesota Twins,66,96,.407,0,0,0
+2013,AL,Central Division,Chicago White Sox,63,99,.389,0,0,0
+2013,AL,West Division,Oakland Athletics,96,66,.593,1,1,0
+2013,AL,West Division,Texas Rangers,91,72,.558,0,0,0
+2013,AL,West Division,Los Angeles Angels,78,84,.481,0,0,0
+2013,AL,West Division,Seattle Mariners,71,91,.438,0,0,0
+2013,AL,West Division,Houston Astros,51,111,.315,0,0,0
+2013,NL,East Division,Atlanta Braves,96,66,.593,1,1,0
+2013,NL,East Division,Washington Nationals,86,76,.531,0,0,0
+2013,NL,East Division,New York Mets,74,88,.457,0,0,0
+2013,NL,East Division,Philadelphia Phillies,73,89,.451,0,0,0
+2013,NL,East Division,Miami Marlins,62,100,.383,0,0,0
+2013,NL,Central Division,St. Louis Cardinals,97,65,.599,1,1,0
+2013,NL,Central Division,Pittsburgh Pirates,94,68,.580,1,0,0
+2013,NL,Central Division,Cincinnati Reds,90,72,.556,1,0,0
+2013,NL,Central Division,Milwaukee Brewers,74,88,.457,0,0,0
+2013,NL,Central Division,Chicago Cubs,66,96,.407,0,0,0
+2013,NL,West Division,Los Angeles Dodgers,92,70,.568,1,1,0
+2013,NL,West Division,Arizona Diamondbacks,81,81,.500,0,0,0
+2013,NL,West Division,San Diego Padres,76,86,.469,0,0,0
+2013,NL,West Division,San Francisco Giants,76,86,.469,0,0,0
+2013,NL,West Division,Colorado Rockies,74,88,.457,0,0,0
+
+2014,AL,East Division,Baltimore Orioles,96,66,.593,1,1,0
+2014,AL,East Division,New York Yankees,84,78,.519,0,0,0
+2014,AL,East Division,Toronto Blue Jays,83,79,.512,0,0,0
+2014,AL,East Division,Tampa Bay Rays,77,85,.475,0,0,0
+2014,AL,East Division,Boston Red Sox,71,91,.438,0,0,0
+2014,AL,Central Division,Detroit Tigers,90,72,.556,1,1,0
+2014,AL,Central Division,Kansas City Royals,89,73,.549,1,0,0
+2014,AL,Central Division,Cleveland Guardians,85,77,.525,0,0,0
+2014,AL,Central Division,Chicago White Sox,73,89,.451,0,0,0
+2014,AL,Central Division,Minnesota Twins,70,92,.432,0,0,0
+2014,AL,West Division,Los Angeles Angels,98,64,.605,1,1,0
+2014,AL,West Division,Oakland Athletics,88,74,.543,1,0,0
+2014,AL,West Division,Seattle Mariners,87,75,.537,0,0,0
+2014,AL,West Division,Houston Astros,70,92,.432,0,0,0
+2014,AL,West Division,Texas Rangers,67,95,.414,0,0,0
+2014,NL,East Division,Washington Nationals,96,66,.593,1,1,0
+2014,NL,East Division,Atlanta Braves,79,83,.488,0,0,0
+2014,NL,East Division,New York Mets,79,83,.488,0,0,0
+2014,NL,East Division,Miami Marlins,77,85,.475,0,0,0
+2014,NL,East Division,Philadelphia Phillies,73,89,.451,0,0,0
+2014,NL,Central Division,St. Louis Cardinals,90,72,.556,1,1,0
+2014,NL,Central Division,Pittsburgh Pirates,88,74,.543,1,0,0
+2014,NL,Central Division,Milwaukee Brewers,82,80,.506,0,0,0
+2014,NL,Central Division,Cincinnati Reds,76,86,.469,0,0,0
+2014,NL,Central Division,Chicago Cubs,73,89,.451,0,0,0
+2014,NL,West Division,Los Angeles Dodgers,94,68,.580,1,1,0
+2014,NL,West Division,San Francisco Giants,88,74,.543,1,0,1
+2014,NL,West Division,San Diego Padres,77,85,.475,0,0,0
+2014,NL,West Division,Colorado Rockies,66,96,.407,0,0,0
+2014,NL,West Division,Arizona Diamondbacks,64,98,.395,0,0,0
+
+2015,AL,East Division,Toronto Blue Jays,93,69,.574,1,1,0
+2015,AL,East Division,New York Yankees,87,75,.537,1,0,0
+2015,AL,East Division,Baltimore Orioles,81,81,.500,0,0,0
+2015,AL,East Division,Tampa Bay Rays,80,82,.494,0,0,0
+2015,AL,East Division,Boston Red Sox,78,84,.481,0,0,0
+2015,AL,Central Division,Kansas City Royals,95,67,.586,1,1,1
+2015,AL,Central Division,Minnesota Twins,83,79,.512,0,0,0
+2015,AL,Central Division,Cleveland Guardians,81,80,.503,0,0,0
+2015,AL,Central Division,Chicago White Sox,76,86,.469,0,0,0
+2015,AL,Central Division,Detroit Tigers,74,87,.460,0,0,0
+2015,AL,West Division,Texas Rangers,88,74,.543,1,1,0
+2015,AL,West Division,Houston Astros,86,76,.531,1,0,0
+2015,AL,West Division,Los Angeles Angels,85,77,.525,0,0,0
+2015,AL,West Division,Seattle Mariners,76,86,.469,0,0,0
+2015,AL,West Division,Oakland Athletics,68,94,.420,0,0,0
+2015,NL,East Division,New York Mets,90,72,.556,1,1,0
+2015,NL,East Division,Washington Nationals,83,79,.512,0,0,0
+2015,NL,East Division,Miami Marlins,71,91,.438,0,0,0
+2015,NL,East Division,Atlanta Braves,67,95,.414,0,0,0
+2015,NL,East Division,Philadelphia Phillies,63,99,.389,0,0,0
+2015,NL,Central Division,St. Louis Cardinals,100,62,.617,1,1,0
+2015,NL,Central Division,Pittsburgh Pirates,98,64,.605,1,0,0
+2015,NL,Central Division,Chicago Cubs,97,65,.599,1,0,0
+2015,NL,Central Division,Milwaukee Brewers,68,94,.420,0,0,0
+2015,NL,Central Division,Cincinnati Reds,64,98,.395,0,0,0
+2015,NL,West Division,Los Angeles Dodgers,92,70,.568,1,1,0
+2015,NL,West Division,San Francisco Giants,84,78,.519,0,0,0
+2015,NL,West Division,Arizona Diamondbacks,79,83,.488,0,0,0
+2015,NL,West Division,San Diego Padres,74,88,.457,0,0,0
+2015,NL,West Division,Colorado Rockies,68,94,.420,0,0,0
 
