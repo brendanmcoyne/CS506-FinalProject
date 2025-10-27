@@ -1,6 +1,7 @@
 # CS506 Midterm Report
 
 **1. Preliminary Visualizations of Data**
+
 I created several visualizations to explore the relationship between team payroll and on-field performance from 2000–2015.
 
 1. Win% vs Payroll (2000 and 2015)
@@ -36,6 +37,7 @@ This helps visualize whether higher payrolls are associated with postseason succ
 ![](Images/RankVSWinsRedSox.png)
 
 **2. Data Processing**
+
 Data was collected and cleaned using Python scraping functions.
 
 Data Sources:
