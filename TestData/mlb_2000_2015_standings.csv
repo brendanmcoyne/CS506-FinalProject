@@ -4,23 +4,23 @@ Year,League,Division,Team,W,L,Wpct
 2000,AL,East Division,Boston Red Sox,85,77,.525
 2000,AL,East Division,Toronto Blue Jays,83,79,.512
 2000,AL,East Division,Baltimore Orioles,74,88,.457
-2000,AL,East Division,Tampa Bay Devil Rays,69,92,.429
+2000,AL,East Division,Tampa Bay Rays,69,92,.429
 2000,AL,Central Division,Tm,W,L,W-L%
 2000,AL,Central Division,Chicago White Sox,95,67,.586
-2000,AL,Central Division,Cleveland Indians,90,72,.556
+2000,AL,Central Division,Cleveland Guardians,90,72,.556
 2000,AL,Central Division,Detroit Tigers,79,83,.488
 2000,AL,Central Division,Kansas City Royals,77,85,.475
 2000,AL,Central Division,Minnesota Twins,69,93,.426
 2000,AL,West Division,Tm,W,L,W-L%
 2000,AL,West Division,Oakland Athletics,91,70,.565
 2000,AL,West Division,Seattle Mariners,91,71,.562
-2000,AL,West Division,Anaheim Angels,82,80,.506
+2000,AL,West Division,Los Angeles Angels,82,80,.506
 2000,AL,West Division,Texas Rangers,71,91,.438
 2000,NL,East Division,Tm,W,L,W-L%
 2000,NL,East Division,Atlanta Braves,95,67,.586
 2000,NL,East Division,New York Mets,94,68,.580
-2000,NL,East Division,Florida Marlins,79,82,.491
-2000,NL,East Division,Montreal Expos,67,95,.414
+2000,NL,East Division,Miami Marlins,79,82,.491
+2000,NL,East Division,Washington Nationals,67,95,.414
 2000,NL,East Division,Philadelphia Phillies,65,97,.401
 2000,NL,Central Division,Tm,W,L,W-L%
 2000,NL,Central Division,St. Louis Cardinals,95,67,.586
@@ -40,9 +40,9 @@ Year,League,Division,Team,W,L,Wpct
 2001,AL,East Division,Boston Red Sox,82,79,.509
 2001,AL,East Division,Toronto Blue Jays,80,82,.494
 2001,AL,East Division,Baltimore Orioles,63,98,.391
-2001,AL,East Division,Tampa Bay Devil Rays,62,100,.383
+2001,AL,East Division,Tampa Bay Rays,62,100,.383
 2001,AL,Central Division,Tm,W,L,W-L%
-2001,AL,Central Division,Cleveland Indians,91,71,.562
+2001,AL,Central Division,Cleveland Guardians,91,71,.562
 2001,AL,Central Division,Minnesota Twins,85,77,.525
 2001,AL,Central Division,Chicago White Sox,83,79,.512
 2001,AL,Central Division,Detroit Tigers,66,96,.407
@@ -50,14 +50,14 @@ Year,League,Division,Team,W,L,Wpct
 2001,AL,West Division,Tm,W,L,W-L%
 2001,AL,West Division,Seattle Mariners,116,46,.716
 2001,AL,West Division,Oakland Athletics,102,60,.630
-2001,AL,West Division,Anaheim Angels,75,87,.463
+2001,AL,West Division,Los Angeles Angels,75,87,.463
 2001,AL,West Division,Texas Rangers,73,89,.451
 2001,NL,East Division,Tm,W,L,W-L%
 2001,NL,East Division,Atlanta Braves,88,74,.543
 2001,NL,East Division,Philadelphia Phillies,86,76,.531
 2001,NL,East Division,New York Mets,82,80,.506
-2001,NL,East Division,Florida Marlins,76,86,.469
-2001,NL,East Division,Montreal Expos,68,94,.420
+2001,NL,East Division,Miami Marlins,76,86,.469
+2001,NL,East Division,Washington Nationals,68,94,.420
 2001,NL,Central Division,Tm,W,L,W-L%
 2001,NL,Central Division,Houston Astros,93,69,.574
 2001,NL,Central Division,St. Louis Cardinals,93,69,.574
@@ -76,23 +76,23 @@ Year,League,Division,Team,W,L,Wpct
 2002,AL,East Division,Boston Red Sox,93,69,.574
 2002,AL,East Division,Toronto Blue Jays,78,84,.481
 2002,AL,East Division,Baltimore Orioles,67,95,.414
-2002,AL,East Division,Tampa Bay Devil Rays,55,106,.342
+2002,AL,East Division,Tampa Bay Rays,55,106,.342
 2002,AL,Central Division,Tm,W,L,W-L%
 2002,AL,Central Division,Minnesota Twins,94,67,.584
 2002,AL,Central Division,Chicago White Sox,81,81,.500
-2002,AL,Central Division,Cleveland Indians,74,88,.457
+2002,AL,Central Division,Cleveland Guardians,74,88,.457
 2002,AL,Central Division,Kansas City Royals,62,100,.383
 2002,AL,Central Division,Detroit Tigers,55,106,.342
 2002,AL,West Division,Tm,W,L,W-L%
 2002,AL,West Division,Oakland Athletics,103,59,.636
-2002,AL,West Division,Anaheim Angels,99,63,.611
+2002,AL,West Division,Los Angeles Angels,99,63,.611
 2002,AL,West Division,Seattle Mariners,93,69,.574
 2002,AL,West Division,Texas Rangers,72,90,.444
 2002,NL,East Division,Tm,W,L,W-L%
 2002,NL,East Division,Atlanta Braves,101,59,.631
-2002,NL,East Division,Montreal Expos,83,79,.512
+2002,NL,East Division,Washington Nationals,83,79,.512
 2002,NL,East Division,Philadelphia Phillies,80,81,.497
-2002,NL,East Division,Florida Marlins,79,83,.488
+2002,NL,East Division,Miami Marlins,79,83,.488
 2002,NL,East Division,New York Mets,75,86,.466
 2002,NL,Central Division,Tm,W,L,W-L%
 2002,NL,Central Division,St. Louis Cardinals,97,65,.599
@@ -112,23 +112,23 @@ Year,League,Division,Team,W,L,Wpct
 2003,AL,East Division,Boston Red Sox,95,67,.586
 2003,AL,East Division,Toronto Blue Jays,86,76,.531
 2003,AL,East Division,Baltimore Orioles,71,91,.438
-2003,AL,East Division,Tampa Bay Devil Rays,63,99,.389
+2003,AL,East Division,Tampa Bay Rays,63,99,.389
 2003,AL,Central Division,Tm,W,L,W-L%
 2003,AL,Central Division,Minnesota Twins,90,72,.556
 2003,AL,Central Division,Chicago White Sox,86,76,.531
 2003,AL,Central Division,Kansas City Royals,83,79,.512
-2003,AL,Central Division,Cleveland Indians,68,94,.420
+2003,AL,Central Division,Cleveland Guardians,68,94,.420
 2003,AL,Central Division,Detroit Tigers,43,119,.265
 2003,AL,West Division,Tm,W,L,W-L%
 2003,AL,West Division,Oakland Athletics,96,66,.593
 2003,AL,West Division,Seattle Mariners,93,69,.574
-2003,AL,West Division,Anaheim Angels,77,85,.475
+2003,AL,West Division,Los Angeles Angels,77,85,.475
 2003,AL,West Division,Texas Rangers,71,91,.438
 2003,NL,East Division,Tm,W,L,W-L%
 2003,NL,East Division,Atlanta Braves,101,61,.623
-2003,NL,East Division,Florida Marlins,91,71,.562
+2003,NL,East Division,Miami Marlins,91,71,.562
 2003,NL,East Division,Philadelphia Phillies,86,76,.531
-2003,NL,East Division,Montreal Expos,83,79,.512
+2003,NL,East Division,Washington Nationals,83,79,.512
 2003,NL,East Division,New York Mets,66,95,.410
 2003,NL,Central Division,Tm,W,L,W-L%
 2003,NL,Central Division,Chicago Cubs,88,74,.543
@@ -147,25 +147,25 @@ Year,League,Division,Team,W,L,Wpct
 2004,AL,East Division,New York Yankees,101,61,.623
 2004,AL,East Division,Boston Red Sox,98,64,.605
 2004,AL,East Division,Baltimore Orioles,78,84,.481
-2004,AL,East Division,Tampa Bay Devil Rays,70,91,.435
+2004,AL,East Division,Tampa Bay Rays,70,91,.435
 2004,AL,East Division,Toronto Blue Jays,67,94,.416
 2004,AL,Central Division,Tm,W,L,W-L%
 2004,AL,Central Division,Minnesota Twins,92,70,.568
 2004,AL,Central Division,Chicago White Sox,83,79,.512
-2004,AL,Central Division,Cleveland Indians,80,82,.494
+2004,AL,Central Division,Cleveland Guardians,80,82,.494
 2004,AL,Central Division,Detroit Tigers,72,90,.444
 2004,AL,Central Division,Kansas City Royals,58,104,.358
 2004,AL,West Division,Tm,W,L,W-L%
-2004,AL,West Division,Anaheim Angels,92,70,.568
+2004,AL,West Division,Los Angeles Angels,92,70,.568
 2004,AL,West Division,Oakland Athletics,91,71,.562
 2004,AL,West Division,Texas Rangers,89,73,.549
 2004,AL,West Division,Seattle Mariners,63,99,.389
 2004,NL,East Division,Tm,W,L,W-L%
 2004,NL,East Division,Atlanta Braves,96,66,.593
 2004,NL,East Division,Philadelphia Phillies,86,76,.531
-2004,NL,East Division,Florida Marlins,83,79,.512
+2004,NL,East Division,Miami Marlins,83,79,.512
 2004,NL,East Division,New York Mets,71,91,.438
-2004,NL,East Division,Montreal Expos,67,95,.414
+2004,NL,East Division,Washington Nationals,67,95,.414
 2004,NL,Central Division,Tm,W,L,W-L%
 2004,NL,Central Division,St. Louis Cardinals,105,57,.648
 2004,NL,Central Division,Houston Astros,92,70,.568
@@ -184,22 +184,22 @@ Year,League,Division,Team,W,L,Wpct
 2005,AL,East Division,Boston Red Sox,95,67,.586
 2005,AL,East Division,Toronto Blue Jays,80,82,.494
 2005,AL,East Division,Baltimore Orioles,74,88,.457
-2005,AL,East Division,Tampa Bay Devil Rays,67,95,.414
+2005,AL,East Division,Tampa Bay Rays,67,95,.414
 2005,AL,Central Division,Tm,W,L,W-L%
 2005,AL,Central Division,Chicago White Sox,99,63,.611
-2005,AL,Central Division,Cleveland Indians,93,69,.574
+2005,AL,Central Division,Cleveland Guardians,93,69,.574
 2005,AL,Central Division,Minnesota Twins,83,79,.512
 2005,AL,Central Division,Detroit Tigers,71,91,.438
 2005,AL,Central Division,Kansas City Royals,56,106,.346
 2005,AL,West Division,Tm,W,L,W-L%
-2005,AL,West Division,Los Angeles Angels of Anaheim,95,67,.586
+2005,AL,West Division,Los Angeles Angels,95,67,.586
 2005,AL,West Division,Oakland Athletics,88,74,.543
 2005,AL,West Division,Texas Rangers,79,83,.488
 2005,AL,West Division,Seattle Mariners,69,93,.426
 2005,NL,East Division,Tm,W,L,W-L%
 2005,NL,East Division,Atlanta Braves,90,72,.556
 2005,NL,East Division,Philadelphia Phillies,88,74,.543
-2005,NL,East Division,Florida Marlins,83,79,.512
+2005,NL,East Division,Miami Marlins,83,79,.512
 2005,NL,East Division,New York Mets,83,79,.512
 2005,NL,East Division,Washington Nationals,81,81,.500
 2005,NL,Central Division,Tm,W,L,W-L%
@@ -220,23 +220,23 @@ Year,League,Division,Team,W,L,Wpct
 2006,AL,East Division,Toronto Blue Jays,87,75,.537
 2006,AL,East Division,Boston Red Sox,86,76,.531
 2006,AL,East Division,Baltimore Orioles,70,92,.432
-2006,AL,East Division,Tampa Bay Devil Rays,61,101,.377
+2006,AL,East Division,Tampa Bay Rays,61,101,.377
 2006,AL,Central Division,Tm,W,L,W-L%
 2006,AL,Central Division,Minnesota Twins,96,66,.593
 2006,AL,Central Division,Detroit Tigers,95,67,.586
 2006,AL,Central Division,Chicago White Sox,90,72,.556
-2006,AL,Central Division,Cleveland Indians,78,84,.481
+2006,AL,Central Division,Cleveland Guardians,78,84,.481
 2006,AL,Central Division,Kansas City Royals,62,100,.383
 2006,AL,West Division,Tm,W,L,W-L%
 2006,AL,West Division,Oakland Athletics,93,69,.574
-2006,AL,West Division,Los Angeles Angels of Anaheim,89,73,.549
+2006,AL,West Division,Los Angeles Angels,89,73,.549
 2006,AL,West Division,Texas Rangers,80,82,.494
 2006,AL,West Division,Seattle Mariners,78,84,.481
 2006,NL,East Division,Tm,W,L,W-L%
 2006,NL,East Division,New York Mets,97,65,.599
 2006,NL,East Division,Philadelphia Phillies,85,77,.525
 2006,NL,East Division,Atlanta Braves,79,83,.488
-2006,NL,East Division,Florida Marlins,78,84,.481
+2006,NL,East Division,Miami Marlins,78,84,.481
 2006,NL,East Division,Washington Nationals,71,91,.438
 2006,NL,Central Division,Tm,W,L,W-L%
 2006,NL,Central Division,St. Louis Cardinals,83,78,.516
@@ -256,15 +256,15 @@ Year,League,Division,Team,W,L,Wpct
 2007,AL,East Division,New York Yankees,94,68,.580
 2007,AL,East Division,Toronto Blue Jays,83,79,.512
 2007,AL,East Division,Baltimore Orioles,69,93,.426
-2007,AL,East Division,Tampa Bay Devil Rays,66,96,.407
+2007,AL,East Division,Tampa Bay Rays,66,96,.407
 2007,AL,Central Division,Tm,W,L,W-L%
-2007,AL,Central Division,Cleveland Indians,96,66,.593
+2007,AL,Central Division,Cleveland Guardians,96,66,.593
 2007,AL,Central Division,Detroit Tigers,88,74,.543
 2007,AL,Central Division,Minnesota Twins,79,83,.488
 2007,AL,Central Division,Chicago White Sox,72,90,.444
 2007,AL,Central Division,Kansas City Royals,69,93,.426
 2007,AL,West Division,Tm,W,L,W-L%
-2007,AL,West Division,Los Angeles Angels of Anaheim,94,68,.580
+2007,AL,West Division,Los Angeles Angels,94,68,.580
 2007,AL,West Division,Seattle Mariners,88,74,.543
 2007,AL,West Division,Oakland Athletics,76,86,.469
 2007,AL,West Division,Texas Rangers,75,87,.463
@@ -273,7 +273,7 @@ Year,League,Division,Team,W,L,Wpct
 2007,NL,East Division,New York Mets,88,74,.543
 2007,NL,East Division,Atlanta Braves,84,78,.519
 2007,NL,East Division,Washington Nationals,73,89,.451
-2007,NL,East Division,Florida Marlins,71,91,.438
+2007,NL,East Division,Miami Marlins,71,91,.438
 2007,NL,Central Division,Tm,W,L,W-L%
 2007,NL,Central Division,Chicago Cubs,85,77,.525
 2007,NL,Central Division,Milwaukee Brewers,83,79,.512
@@ -296,18 +296,18 @@ Year,League,Division,Team,W,L,Wpct
 2008,AL,Central Division,Tm,W,L,W-L%
 2008,AL,Central Division,Chicago White Sox,89,74,.546
 2008,AL,Central Division,Minnesota Twins,88,75,.540
-2008,AL,Central Division,Cleveland Indians,81,81,.500
+2008,AL,Central Division,Cleveland Guardians,81,81,.500
 2008,AL,Central Division,Kansas City Royals,75,87,.463
 2008,AL,Central Division,Detroit Tigers,74,88,.457
 2008,AL,West Division,Tm,W,L,W-L%
-2008,AL,West Division,Los Angeles Angels of Anaheim,100,62,.617
+2008,AL,West Division,Los Angeles Angels,100,62,.617
 2008,AL,West Division,Texas Rangers,79,83,.488
 2008,AL,West Division,Oakland Athletics,75,86,.466
 2008,AL,West Division,Seattle Mariners,61,101,.377
 2008,NL,East Division,Tm,W,L,W-L%
 2008,NL,East Division,Philadelphia Phillies,92,70,.568
 2008,NL,East Division,New York Mets,89,73,.549
-2008,NL,East Division,Florida Marlins,84,77,.522
+2008,NL,East Division,Miami Marlins,84,77,.522
 2008,NL,East Division,Atlanta Braves,72,90,.444
 2008,NL,East Division,Washington Nationals,59,102,.366
 2008,NL,Central Division,Tm,W,L,W-L%
@@ -333,16 +333,16 @@ Year,League,Division,Team,W,L,Wpct
 2009,AL,Central Division,Minnesota Twins,87,76,.534
 2009,AL,Central Division,Detroit Tigers,86,77,.528
 2009,AL,Central Division,Chicago White Sox,79,83,.488
-2009,AL,Central Division,Cleveland Indians,65,97,.401
+2009,AL,Central Division,Cleveland Guardians,65,97,.401
 2009,AL,Central Division,Kansas City Royals,65,97,.401
 2009,AL,West Division,Tm,W,L,W-L%
-2009,AL,West Division,Los Angeles Angels of Anaheim,97,65,.599
+2009,AL,West Division,Los Angeles Angels,97,65,.599
 2009,AL,West Division,Texas Rangers,87,75,.537
 2009,AL,West Division,Seattle Mariners,85,77,.525
 2009,AL,West Division,Oakland Athletics,75,87,.463
 2009,NL,East Division,Tm,W,L,W-L%
 2009,NL,East Division,Philadelphia Phillies,93,69,.574
-2009,NL,East Division,Florida Marlins,87,75,.537
+2009,NL,East Division,Miami Marlins,87,75,.537
 2009,NL,East Division,Atlanta Braves,86,76,.531
 2009,NL,East Division,New York Mets,70,92,.432
 2009,NL,East Division,Washington Nationals,59,103,.364
@@ -369,17 +369,17 @@ Year,League,Division,Team,W,L,Wpct
 2010,AL,Central Division,Minnesota Twins,94,68,.580
 2010,AL,Central Division,Chicago White Sox,88,74,.543
 2010,AL,Central Division,Detroit Tigers,81,81,.500
-2010,AL,Central Division,Cleveland Indians,69,93,.426
+2010,AL,Central Division,Cleveland Guardians,69,93,.426
 2010,AL,Central Division,Kansas City Royals,67,95,.414
 2010,AL,West Division,Tm,W,L,W-L%
 2010,AL,West Division,Texas Rangers,90,72,.556
 2010,AL,West Division,Oakland Athletics,81,81,.500
-2010,AL,West Division,Los Angeles Angels of Anaheim,80,82,.494
+2010,AL,West Division,Los Angeles Angels,80,82,.494
 2010,AL,West Division,Seattle Mariners,61,101,.377
 2010,NL,East Division,Tm,W,L,W-L%
 2010,NL,East Division,Philadelphia Phillies,97,65,.599
 2010,NL,East Division,Atlanta Braves,91,71,.562
-2010,NL,East Division,Florida Marlins,80,82,.494
+2010,NL,East Division,Miami Marlins,80,82,.494
 2010,NL,East Division,New York Mets,79,83,.488
 2010,NL,East Division,Washington Nationals,69,93,.426
 2010,NL,Central Division,Tm,W,L,W-L%
@@ -403,13 +403,13 @@ Year,League,Division,Team,W,L,Wpct
 2011,AL,East Division,Baltimore Orioles,69,93,.426
 2011,AL,Central Division,Tm,W,L,W-L%
 2011,AL,Central Division,Detroit Tigers,95,67,.586
-2011,AL,Central Division,Cleveland Indians,80,82,.494
+2011,AL,Central Division,Cleveland Guardians,80,82,.494
 2011,AL,Central Division,Chicago White Sox,79,83,.488
 2011,AL,Central Division,Kansas City Royals,71,91,.438
 2011,AL,Central Division,Minnesota Twins,63,99,.389
 2011,AL,West Division,Tm,W,L,W-L%
 2011,AL,West Division,Texas Rangers,96,66,.593
-2011,AL,West Division,Los Angeles Angels of Anaheim,86,76,.531
+2011,AL,West Division,Los Angeles Angels,86,76,.531
 2011,AL,West Division,Oakland Athletics,74,88,.457
 2011,AL,West Division,Seattle Mariners,67,95,.414
 2011,NL,East Division,Tm,W,L,W-L%
@@ -417,7 +417,7 @@ Year,League,Division,Team,W,L,Wpct
 2011,NL,East Division,Atlanta Braves,89,73,.549
 2011,NL,East Division,Washington Nationals,80,81,.497
 2011,NL,East Division,New York Mets,77,85,.475
-2011,NL,East Division,Florida Marlins,72,90,.444
+2011,NL,East Division,Miami Marlins,72,90,.444
 2011,NL,Central Division,Tm,W,L,W-L%
 2011,NL,Central Division,Milwaukee Brewers,96,66,.593
 2011,NL,Central Division,St. Louis Cardinals,90,72,.556
@@ -441,12 +441,12 @@ Year,League,Division,Team,W,L,Wpct
 2012,AL,Central Division,Detroit Tigers,88,74,.543
 2012,AL,Central Division,Chicago White Sox,85,77,.525
 2012,AL,Central Division,Kansas City Royals,72,90,.444
-2012,AL,Central Division,Cleveland Indians,68,94,.420
+2012,AL,Central Division,Cleveland Guardians,68,94,.420
 2012,AL,Central Division,Minnesota Twins,66,96,.407
 2012,AL,West Division,Tm,W,L,W-L%
 2012,AL,West Division,Oakland Athletics,94,68,.580
 2012,AL,West Division,Texas Rangers,93,69,.574
-2012,AL,West Division,Los Angeles Angels of Anaheim,89,73,.549
+2012,AL,West Division,Los Angeles Angels,89,73,.549
 2012,AL,West Division,Seattle Mariners,75,87,.463
 2012,NL,East Division,Tm,W,L,W-L%
 2012,NL,East Division,Washington Nationals,98,64,.605
@@ -475,14 +475,14 @@ Year,League,Division,Team,W,L,Wpct
 2013,AL,East Division,Toronto Blue Jays,74,88,.457
 2013,AL,Central Division,Tm,W,L,W-L%
 2013,AL,Central Division,Detroit Tigers,93,69,.574
-2013,AL,Central Division,Cleveland Indians,92,70,.568
+2013,AL,Central Division,Cleveland Guardians,92,70,.568
 2013,AL,Central Division,Kansas City Royals,86,76,.531
 2013,AL,Central Division,Minnesota Twins,66,96,.407
 2013,AL,Central Division,Chicago White Sox,63,99,.389
 2013,AL,West Division,Tm,W,L,W-L%
 2013,AL,West Division,Oakland Athletics,96,66,.593
 2013,AL,West Division,Texas Rangers,91,72,.558
-2013,AL,West Division,Los Angeles Angels of Anaheim,78,84,.481
+2013,AL,West Division,Los Angeles Angels,78,84,.481
 2013,AL,West Division,Seattle Mariners,71,91,.438
 2013,AL,West Division,Houston Astros,51,111,.315
 2013,NL,East Division,Tm,W,L,W-L%
@@ -512,11 +512,11 @@ Year,League,Division,Team,W,L,Wpct
 2014,AL,Central Division,Tm,W,L,W-L%
 2014,AL,Central Division,Detroit Tigers,90,72,.556
 2014,AL,Central Division,Kansas City Royals,89,73,.549
-2014,AL,Central Division,Cleveland Indians,85,77,.525
+2014,AL,Central Division,Cleveland Guardians,85,77,.525
 2014,AL,Central Division,Chicago White Sox,73,89,.451
 2014,AL,Central Division,Minnesota Twins,70,92,.432
 2014,AL,West Division,Tm,W,L,W-L%
-2014,AL,West Division,Los Angeles Angels of Anaheim,98,64,.605
+2014,AL,West Division,Los Angeles Angels,98,64,.605
 2014,AL,West Division,Oakland Athletics,88,74,.543
 2014,AL,West Division,Seattle Mariners,87,75,.537
 2014,AL,West Division,Houston Astros,70,92,.432
@@ -548,13 +548,13 @@ Year,League,Division,Team,W,L,Wpct
 2015,AL,Central Division,Tm,W,L,W-L%
 2015,AL,Central Division,Kansas City Royals,95,67,.586
 2015,AL,Central Division,Minnesota Twins,83,79,.512
-2015,AL,Central Division,Cleveland Indians,81,80,.503
+2015,AL,Central Division,Cleveland Guardians,81,80,.503
 2015,AL,Central Division,Chicago White Sox,76,86,.469
 2015,AL,Central Division,Detroit Tigers,74,87,.460
 2015,AL,West Division,Tm,W,L,W-L%
 2015,AL,West Division,Texas Rangers,88,74,.543
 2015,AL,West Division,Houston Astros,86,76,.531
-2015,AL,West Division,Los Angeles Angels of Anaheim,85,77,.525
+2015,AL,West Division,Los Angeles Angels,85,77,.525
 2015,AL,West Division,Seattle Mariners,76,86,.469
 2015,AL,West Division,Oakland Athletics,68,94,.420
 2015,NL,East Division,Tm,W,L,W-L%
