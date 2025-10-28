@@ -12,7 +12,7 @@ I created several visualizations to explore the relationship between team payrol
 
 1. Wins vs Payroll (2000 and 2015)
 
-- Scatterplots showing each team’s winning percentage versus total payroll for the years 2000 and 2015.
+- Scatterplots showing each team’s number of wins versus total payroll for the years 2000 and 2015.
 - These plots illustrate how the league’s payroll landscape and win distributions have changed over time.
   
 ![](Images/PayrollsVSWins2000.png)
