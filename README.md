@@ -1,6 +1,6 @@
 # CS506 Midterm Report
 
-**Youtube Link:**
+**Youtube Link:** https://youtu.be/uaGeGuboecU
 
 **Overview**
 
