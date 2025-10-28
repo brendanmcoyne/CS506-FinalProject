@@ -10,7 +10,7 @@ Goal of project: Find a correlation between playoff/team success based on payrol
 
 I created several visualizations to explore the relationship between team payroll and on-field performance from 2000–2015.
 
-1. Win% vs Payroll (2000 and 2015)
+1. Wins vs Payroll (2000 and 2015)
 
 - Scatterplots showing each team’s winning percentage versus total payroll for the years 2000 and 2015.
 - These plots illustrate how the league’s payroll landscape and win distributions have changed over time.
