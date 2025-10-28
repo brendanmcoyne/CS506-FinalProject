@@ -62,11 +62,11 @@ Created new features:
 - Binary playoff/division/World Series win indicators
 
 Final Dataset:
-Record Sheet: ~480 total team-seasons (30 teams × 16 years).
-Columns include: Year, League, Division, Team, W, L, Wpct, Playoffs, DivisionWin, WorldSeriesWin
+- Record Sheet: ~480 total team-seasons (30 teams × 16 years).
+- Columns include: Year, League, Division, Team, W, L, Wpct, Playoffs, DivisionWin, WorldSeriesWin
 
-Payroll Sheet: ~480 total team-seasons (30 teams × 16 years).
-Columns include: Year, Rank, Team, Payroll
+- Payroll Sheet: ~480 total team-seasons (30 teams × 16 years).
+- Columns include: Year, Rank, Team, Payroll
 
 **3. Data Modeling Methods**
 
