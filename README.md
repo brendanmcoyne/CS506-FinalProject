@@ -55,7 +55,8 @@ All data was saved into CSV files.
 Data Cleaning Steps:
 - Combined datasets by year and team name.
 - Handled missing data (Added incomplete payroll numbers).
-- Updated team names to present day for consistency 
+- Updated team names to present day for consistency
+  
 Created new features:
 - Payroll Rank (rank within league for that season)
 - Binary playoff/division/World Series win indicators
