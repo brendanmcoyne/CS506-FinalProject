@@ -70,7 +70,7 @@ Final Dataset:
 
 **3. Data Modeling Methods**
 
-So far, the focus of the project has been on exploratory data analysis (EDA) and visualization to identify potential relationships between team payroll and success metrics.
+So far, the focus of the project has been on exploratory data analysis and visualization to identify potential relationships between team payroll and success metrics.
 
 Work Completed to Date:
 - Conducted visual analysis through scatterplots of payroll vs. win percentage for 2000 and 2015.
