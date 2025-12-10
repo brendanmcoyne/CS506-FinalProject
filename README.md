@@ -8,10 +8,12 @@ Final Presentation Link: Add link here when uploaded
 This project includes a Makefile that installs dependencies, prepares the environment, runs the notebook, and executes the automated tests.
 
 1. Clone the Repository
+```bash
 git clone <your-repo-url>
 cd CS506-FinalProject
+```
 
-2. Build the environment
+3. Build the environment
 make setup
 
 
