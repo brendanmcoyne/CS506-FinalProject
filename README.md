@@ -46,61 +46,61 @@ make test
 This runs automated tests defined in test_model.py using pytest.
 
 
-utomated Testing & GitHub Workflow
+Automated Testing & GitHub Workflow
 
 The project includes:
 
-test_model.py containing simple but meaningful tests:
+A file called test_model.py that helps to:
 
-Ensures the merged dataset is not empty
+- Ensure the merged dataset is not empty
 
-Confirms Win% values are valid
+- Confirm Win% values are valid
 
-Verifies payroll and standings year ranges
+- Verify payroll and standings year ranges
 
-Tests linear regression can fit without errors
+- Test linear regression can fit without errors
 
 A GitHub Actions workflow (.github/workflows/tests.yml) runs automatically whenever code is pushed.
 
 This ensures reproducibility and correctness of the core logic.
 
-⚾ Project Overview
-Goal of Project
+### Project Overview
+Goal of Project:
 
-To analyze whether higher payroll spending in Major League Baseball correlates with greater on-field success. Success is measured using:
+To analyze whether higher payroll spending in Major League Baseball correlates with higher win percentage and playoff success. Success is measured using:
 
-Win percentage
+- Win percentage
 
-Playoff appearances
+- Playoff appearances
 
-Division titles
+- Division titles
 
-World Series wins
+- World Series wins
 
-This project explicitly studies correlation, not causation — spending more money does not cause success but may be associated with structural advantages (market size, player development, management quality, etc.).
+This project explicitly studies correlation, not causation — spending more money does not cause success but may be associated with it.
 
-📊 Data Sources
+### Data Sources
 1. Payroll Data (2000–2015 and 2016–2025)
 
 Scraped from SteveTheUmp / Spotrac-style reports showing:
 
-Team active roster payroll
+- Team active roster payroll
 
-Payroll rank per season
+- Payroll rank per season
 
 2. Standings & Performance Data
 
 Scraped from Pro Baseball Reference, including:
 
-Wins, losses, win percentage
+- Wins, losses, win percentage
 
-Division placement
+- Division placement
 
-Playoff appearance
+- Playoff appearance
 
-Division win
+- Division win
 
-World Series win
+- World Series win
 
 Final Dataset Features
 
