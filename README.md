@@ -1,7 +1,8 @@
 ### CS506 Final Project — MLB Payroll vs Team Success
 
 Author: Brendan Coyne
-Final Presentation Link: Add link here when uploaded
+
+Final Presentation Link: 
 
 ### How to Build and Run the Code
 
@@ -44,7 +45,8 @@ make test
 
 This runs automated tests defined in test_model.py using pytest.
 
-🧪 Automated Testing & GitHub Workflow
+
+utomated Testing & GitHub Workflow
 
 The project includes:
 
