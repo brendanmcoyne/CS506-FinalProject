@@ -217,62 +217,60 @@ Target: Playoffs (1 = Yes, 0 = No)
 
 Features:
 
-Payroll
+- Payroll
 
-Payroll Rank
+- Payroll Rank
 
-Win Percentage
+- Win Percentage
 
 Metrics Reported:
 
-Precision
+- Precision
 
-Recall
+- Recall
 
-ROC–AUC
+- ROC–AUC
 
 Findings:
 
-Model identifies high-payroll teams as most playoff-likely
-
-Low-payroll teams almost never predicted as playoff contenders
+Model identifies high-payroll teams as most playoff-likely. Low-payroll teams almost never predicted as playoff contenders.
 
 3. K-Means Clustering (Unsupervised)
 
 Features Used:
 
-Payroll
+- Payroll
 
-Win Percentage
+- Win Percentage
 
 Clusters Identified:
 
-High-payroll, high-performance
+- High-payroll, high-performance
 
-Mid-spending, average teams
+- Mid-spending, average teams
 
-Low-payroll, low-performance
+- Low-payroll, low-performance
 
 This visualization helps identify structural tiers in MLB spending.
 
-🏆 Results and Conclusions
+### Results and Conclusions
 Major Findings:
-✔ 1. Payroll correlates with win percentage
+1. Payroll moderately correlates with win percentage
 
 Correlation coefficient ~ 0.20, but meaningful trends emerge.
 
-✔ 2. High payroll significantly increases playoff probability
+2. High payroll significantly increases playoff probability
 
 Top-5 payroll teams make playoffs far more often than bottom-5 payroll teams.
 
-✔ 3. Division winners and World Series winners are typically above median payroll
+3. Division winners and World Series winners are typically above median payroll
 
-Budget matters — champions rarely come from the league’s bottom payroll tier.
+Champions rarely come from the league’s bottom payroll tier.
 
-✔ 4. Modern MLB (2016–2025) confirms the trend
+4. Modern MLB (2016–2025) confirms the trend
 
 Regression slopes for the modern test set remain positive.
 
-✔ 5. But payroll is NOT destiny
+5. Payroll isn't an absolute for winning
 
 Outliers exist, especially small-market teams with strong development pipelines.
