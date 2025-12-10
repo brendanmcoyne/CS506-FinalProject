@@ -251,7 +251,7 @@ Clusters Identified:
 
 - Low-payroll, low-performance
 
-This visualization helps identify structural tiers in MLB spending.
+This visualization helps identify structural tiers in MLB spending. 
 
 ### Results and Conclusions
 Major Findings:
