@@ -1,0 +1,310 @@
+Year,League,Division,Team,W,L,Wpct,Playoffs,DivisionWin,WorldSeriesWin
+2016,AL,East Division,Boston Red Sox,93,69,.574,1,1,0
+2016,AL,East Division,Baltimore Orioles,89,73,.549,1,0,0
+2016,AL,East Division,Toronto Blue Jays,89,73,.549,1,0,0
+2016,AL,East Division,New York Yankees,84,78,.519,0,0,0
+2016,AL,East Division,Tampa Bay Rays,68,94,.420,0,0,0
+2016,AL,Central Division,Cleveland Guardians,94,67,.584,1,1,0
+2016,AL,Central Division,Detroit Tigers,86,75,.534,0,0,0
+2016,AL,Central Division,Kansas City Royals,81,81,.500,0,0,0
+2016,AL,Central Division,Chicago White Sox,78,84,.481,0,0,0
+2016,AL,Central Division,Minnesota Twins,59,103,.364,0,0,0
+2016,AL,West Division,Texas Rangers,95,67,.586,1,1,0
+2016,AL,West Division,Seattle Mariners,86,76,.531,0,0,0
+2016,AL,West Division,Houston Astros,84,78,.519,0,0,0
+2016,AL,West Division,Los Angeles Angels,74,88,.457,0,0,0
+2016,AL,West Division,Oakland Athletics,69,93,.426,0,0,0
+2016,NL,East Division,Washington Nationals,95,67,.586,1,1,0
+2016,NL,East Division,New York Mets,87,75,.537,1,0,0
+2016,NL,East Division,Miami Marlins,79,82,.491,0,0,0
+2016,NL,East Division,Philadelphia Phillies,71,91,.438,0,0,0
+2016,NL,East Division,Atlanta Braves,68,93,.422,0,0,0
+2016,NL,Central Division,Chicago Cubs,103,58,.640,1,1,1
+2016,NL,Central Division,St. Louis Cardinals,86,76,.531,0,0,0
+2016,NL,Central Division,Pittsburgh Pirates,78,83,.484,0,0,0
+2016,NL,Central Division,Milwaukee Brewers,73,89,.451,0,0,0
+2016,NL,Central Division,Cincinnati Reds,68,94,.420,0,0,0
+2016,NL,West Division,Los Angeles Dodgers,91,71,.562,1,1,0
+2016,NL,West Division,San Francisco Giants,87,75,.537,1,0,0
+2016,NL,West Division,Colorado Rockies,75,87,.463,0,0,0
+2016,NL,West Division,Arizona Diamondbacks,69,93,.426,0,0,0
+2016,NL,West Division,San Diego Padres,68,94,.420,0,0,0
+
+2017,AL,East Division,Boston Red Sox,93,69,.574,1,1,0
+2017,AL,East Division,New York Yankees,91,71,.562,1,0,0
+2017,AL,East Division,Tampa Bay Rays,80,82,.494,0,0,0
+2017,AL,East Division,Toronto Blue Jays,76,86,.469,0,0,0
+2017,AL,East Division,Baltimore Orioles,75,87,.463,0,0,0
+2017,AL,Central Division,Cleveland Guardians,102,60,.630,1,1,0
+2017,AL,Central Division,Minnesota Twins,85,77,.525,0,0,0
+2017,AL,Central Division,Kansas City Royals,80,82,.494,0,0,0
+2017,AL,Central Division,Chicago White Sox,67,95,.414,0,0,0
+2017,AL,Central Division,Detroit Tigers,64,98,.395,0,0,0
+2017,AL,West Division,Houston Astros,101,61,.623,1,1,1
+2017,AL,West Division,Los Angeles Angels,80,82,.494,0,0,0
+2017,AL,West Division,Seattle Mariners,78,84,.481,0,0,0
+2017,AL,West Division,Texas Rangers,78,84,.481,0,0,0
+2017,AL,West Division,Oakland Athletics,75,87,.463,0,0,0
+2017,NL,East Division,Washington Nationals,97,65,.599,1,1,0
+2017,NL,East Division,Miami Marlins,77,85,.475,0,0,0
+2017,NL,East Division,Atlanta Braves,72,90,.444,0,0,0
+2017,NL,East Division,New York Mets,70,92,.432,0,0,0
+2017,NL,East Division,Philadelphia Phillies,66,96,.407,0,0,0
+2017,NL,Central Division,Chicago Cubs,92,70,.568,1,1,0
+2017,NL,Central Division,Milwaukee Brewers,86,76,.531,0,0,0
+2017,NL,Central Division,St. Louis Cardinals,83,79,.512,0,0,0
+2017,NL,Central Division,Pittsburgh Pirates,75,87,.463,0,0,0
+2017,NL,Central Division,Cincinnati Reds,68,94,.420,0,0,0
+2017,NL,West Division,Los Angeles Dodgers,104,58,.642,1,1,0
+2017,NL,West Division,Arizona Diamondbacks,93,69,.574,1,0,0
+2017,NL,West Division,Colorado Rockies,87,75,.537,1,0,0
+2017,NL,West Division,San Diego Padres,71,91,.438,0,0,0
+2017,NL,West Division,San Francisco Giants,64,98,.395,0,0,0
+
+2018,AL,East Division,Boston Red Sox,108,54,.667,1,1,1
+2018,AL,East Division,New York Yankees,100,62,.617,1,0,0
+2018,AL,East Division,Tampa Bay Rays,90,72,.556,0,0,0
+2018,AL,East Division,Toronto Blue Jays,73,89,.451,0,0,0
+2018,AL,East Division,Baltimore Orioles,47,115,.290,0,0,0
+2018,AL,Central Division,Cleveland Guardians,91,71,.562,1,1,0
+2018,AL,Central Division,Minnesota Twins,78,84,.481,0,0,0
+2018,AL,Central Division,Detroit Tigers,64,98,.395,0,0,0
+2018,AL,Central Division,Chicago White Sox,62,100,.383,0,0,0
+2018,AL,Central Division,Kansas City Royals,58,104,.358,0,0,0
+2018,AL,West Division,Houston Astros,103,59,.636,1,1,0
+2018,AL,West Division,Oakland Athletics,97,65,.599,1,0,0
+2018,AL,West Division,Seattle Mariners,89,73,.549,0,0,0
+2018,AL,West Division,Los Angeles Angels,80,82,.494,0,0,0
+2018,AL,West Division,Texas Rangers,67,95,.414,0,0,0
+2018,NL,East Division,Atlanta Braves,90,72,.556,1,1,0
+2018,NL,East Division,Washington Nationals,82,80,.506,0,0,0
+2018,NL,East Division,Philadelphia Phillies,80,82,.494,0,0,0
+2018,NL,East Division,New York Mets,77,85,.475,0,0,0
+2018,NL,East Division,Miami Marlins,63,98,.391,0,0,0
+2018,NL,Central Division,Milwaukee Brewers,96,67,.589,1,1,0
+2018,NL,Central Division,Chicago Cubs,95,68,.583,1,0,0
+2018,NL,Central Division,St. Louis Cardinals,88,74,.543,0,0,0
+2018,NL,Central Division,Pittsburgh Pirates,82,79,.509,0,0,0
+2018,NL,Central Division,Cincinnati Reds,67,95,.414,0,0,0
+2018,NL,West Division,Los Angeles Dodgers,92,71,.564,1,1,0
+2018,NL,West Division,Colorado Rockies,91,72,.558,1,0,0
+2018,NL,West Division,Arizona Diamondbacks,82,80,.506,0,0,0
+2018,NL,West Division,San Francisco Giants,73,89,.451,0,0,0
+2018,NL,West Division,San Diego Padres,66,96,.407,0,0,0
+
+2019,AL,East Division,New York Yankees,103,59,.636,1,1,0
+2019,AL,East Division,Tampa Bay Rays,96,66,.593,1,0,0
+2019,AL,East Division,Boston Red Sox,84,78,.519,0,0,0
+2019,AL,East Division,Toronto Blue Jays,67,95,.414,0,0,0
+2019,AL,East Division,Baltimore Orioles,54,108,.333,0,0,0
+2019,AL,Central Division,Minnesota Twins,101,61,.623,1,1,0
+2019,AL,Central Division,Cleveland Guardians,93,69,.574,0,0,0
+2019,AL,Central Division,Chicago White Sox,72,89,.447,0,0,0
+2019,AL,Central Division,Kansas City Royals,59,103,.364,0,0,0
+2019,AL,Central Division,Detroit Tigers,47,114,.292,0,0,0
+2019,AL,West Division,Houston Astros,107,55,.660,1,1,0
+2019,AL,West Division,Oakland Athletics,97,65,.599,1,0,0
+2019,AL,West Division,Texas Rangers,78,84,.481,0,0,0
+2019,AL,West Division,Los Angeles Angels,72,90,.444,0,0,0
+2019,AL,West Division,Seattle Mariners,68,94,.420,0,0,0
+2019,NL,East Division,Atlanta Braves,97,65,.599,1,1,0
+2019,NL,East Division,Washington Nationals,93,69,.574,1,0,1
+2019,NL,East Division,New York Mets,86,76,.531,0,0,0
+2019,NL,East Division,Philadelphia Phillies,81,81,.500,0,0,0
+2019,NL,East Division,Miami Marlins,57,105,.352,0,0,0
+2019,NL,Central Division,St. Louis Cardinals,91,71,.562,1,1,0
+2019,NL,Central Division,Milwaukee Brewers,89,73,.549,1,0,0
+2019,NL,Central Division,Chicago Cubs,84,78,.519,0,0,0
+2019,NL,Central Division,Cincinnati Reds,75,87,.463,0,0,0
+2019,NL,Central Division,Pittsburgh Pirates,69,93,.426,0,0,0
+2019,NL,West Division,Los Angeles Dodgers,106,56,.654,1,1,0
+2019,NL,West Division,Arizona Diamondbacks,85,77,.525,0,0,0
+2019,NL,West Division,San Francisco Giants,77,85,.475,0,0,0
+2019,NL,West Division,Colorado Rockies,71,91,.438,0,0,0
+2019,NL,West Division,San Diego Padres,70,92,.432,0,0,0
+
+2020,AL,East Division,Tampa Bay Rays,40,20,.667,1,1,0
+2020,AL,East Division,New York Yankees,33,27,.550,1,0,0
+2020,AL,East Division,Toronto Blue Jays,32,28,.533,1,0,0
+2020,AL,East Division,Baltimore Orioles,25,35,.417,0,0,0
+2020,AL,East Division,Boston Red Sox,24,36,.400,0,0,0
+2020,AL,Central Division,Minnesota Twins,36,24,.600,1,1,0
+2020,AL,Central Division,Cleveland Guardians,35,25,.583,1,0,0
+2020,AL,Central Division,Chicago White Sox,35,25,.583,1,0,0
+2020,AL,Central Division,Kansas City Royals,26,34,.433,0,0,0
+2020,AL,Central Division,Detroit Tigers,23,35,.397,0,0,0
+2020,AL,West Division,Oakland Athletics,36,24,.600,1,1,0
+2020,AL,West Division,Houston Astros,29,31,.483,1,0,0
+2020,AL,West Division,Seattle Mariners,27,33,.450,0,0,0
+2020,AL,West Division,Los Angeles Angels,26,34,.433,0,0,0
+2020,AL,West Division,Texas Rangers,22,38,.367,0,0,0
+2020,NL,East Division,Atlanta Braves,35,25,.583,1,1,0
+2020,NL,East Division,Miami Marlins,31,29,.517,1,0,0
+2020,NL,East Division,Philadelphia Phillies,28,32,.467,0,0,0
+2020,NL,East Division,New York Mets,26,34,.433,0,0,0
+2020,NL,East Division,Washington Nationals,26,34,.433,0,0,0
+2020,NL,Central Division,Chicago Cubs,34,26,.567,1,1,0
+2020,NL,Central Division,St. Louis Cardinals,30,28,.517,1,0,0
+2020,NL,Central Division,Cincinnati Reds,31,29,.517,1,0,0
+2020,NL,Central Division,Milwaukee Brewers,29,31,.483,1,0,0
+2020,NL,Central Division,Pittsburgh Pirates,19,41,.317,0,0,0
+2020,NL,West Division,Los Angeles Dodgers,43,17,.717,1,1,1
+2020,NL,West Division,San Diego Padres,37,23,.617,1,0,0
+2020,NL,West Division,San Francisco Giants,29,31,.483,0,0,0
+2020,NL,West Division,Colorado Rockies,26,34,.433,0,0,0
+2020,NL,West Division,Arizona Diamondbacks,25,35,.417,0,0,0
+
+2021,AL,East Division,Tampa Bay Rays,100,62,.617,1,1,0
+2021,AL,East Division,Boston Red Sox,92,70,.568,1,0,0
+2021,AL,East Division,New York Yankees,92,70,.568,1,0,0
+2021,AL,East Division,Toronto Blue Jays,91,71,.562,0,0,0
+2021,AL,East Division,Baltimore Orioles,52,110,.321,0,0,0
+2021,AL,Central Division,Chicago White Sox,93,69,.574,1,1,0
+2021,AL,Central Division,Cleveland Guardians,80,82,.494,0,0,0
+2021,AL,Central Division,Detroit Tigers,77,85,.475,0,0,0
+2021,AL,Central Division,Kansas City Royals,74,88,.457,0,0,0
+2021,AL,Central Division,Minnesota Twins,73,89,.451,0,0,0
+2021,AL,West Division,Houston Astros,95,67,.586,1,1,0
+2021,AL,West Division,Seattle Mariners,90,72,.556,0,0,0
+2021,AL,West Division,Oakland Athletics,86,76,.531,0,0,0
+2021,AL,West Division,Los Angeles Angels,77,85,.475,0,0,0
+2021,AL,West Division,Texas Rangers,60,102,.370,0,0,0
+2021,NL,East Division,Atlanta Braves,88,73,.547,1,1,1
+2021,NL,East Division,Philadelphia Phillies,82,80,.506,0,0,0
+2021,NL,East Division,New York Mets,77,85,.475,0,0,0
+2021,NL,East Division,Miami Marlins,67,95,.414,0,0,0
+2021,NL,East Division,Washington Nationals,65,97,.401,0,0,0
+2021,NL,Central Division,Milwaukee Brewers,95,67,.586,1,1,0
+2021,NL,Central Division,St. Louis Cardinals,90,72,.556,1,0,0
+2021,NL,Central Division,Cincinnati Reds,83,79,.512,0,0,0
+2021,NL,Central Division,Chicago Cubs,71,91,.438,0,0,0
+2021,NL,Central Division,Pittsburgh Pirates,61,101,.377,0,0,0
+2021,NL,West Division,San Francisco Giants,107,55,.660,1,1,0
+2021,NL,West Division,Los Angeles Dodgers,106,56,.654,1,0,0
+2021,NL,West Division,San Diego Padres,79,83,.488,0,0,0
+2021,NL,West Division,Colorado Rockies,74,87,.460,0,0,0
+2021,NL,West Division,Arizona Diamondbacks,52,110,.321,0,0,0
+
+2022,AL,East Division,New York Yankees,99,63,.611,1,1,0
+2022,AL,East Division,Toronto Blue Jays,92,70,.568,1,0,0
+2022,AL,East Division,Tampa Bay Rays,86,76,.531,1,0,0
+2022,AL,East Division,Baltimore Orioles,83,79,.512,0,0,0
+2022,AL,East Division,Boston Red Sox,78,84,.481,0,0,0
+2022,AL,Central Division,Cleveland Guardians,92,70,.568,1,1,0
+2022,AL,Central Division,Chicago White Sox,81,81,.500,0,0,0
+2022,AL,Central Division,Minnesota Twins,78,84,.481,0,0,0
+2022,AL,Central Division,Detroit Tigers,66,96,.407,0,0,0
+2022,AL,Central Division,Kansas City Royals,65,97,.401,0,0,0
+2022,AL,West Division,Houston Astros,106,56,.654,1,1,1
+2022,AL,West Division,Seattle Mariners,90,72,.556,1,0,0
+2022,AL,West Division,Los Angeles Angels,73,89,.451,0,0,0
+2022,AL,West Division,Texas Rangers,68,94,.420,0,0,0
+2022,AL,West Division,Oakland Athletics,60,102,.370,0,0,0
+2022,NL,East Division,Atlanta Braves,101,61,.623,1,1,0
+2022,NL,East Division,New York Mets,101,61,.623,1,0,0
+2022,NL,East Division,Philadelphia Phillies,87,75,.537,1,0,0
+2022,NL,East Division,Miami Marlins,69,93,.426,0,0,0
+2022,NL,East Division,Washington Nationals,55,107,.340,0,0,0
+2022,NL,Central Division,St. Louis Cardinals,93,69,.574,1,1,0
+2022,NL,Central Division,Milwaukee Brewers,86,76,.531,0,0,0
+2022,NL,Central Division,Chicago Cubs,74,88,.457,0,0,0
+2022,NL,Central Division,Cincinnati Reds,62,100,.383,0,0,0
+2022,NL,Central Division,Pittsburgh Pirates,62,100,.383,0,0,0
+2022,NL,West Division,Los Angeles Dodgers,111,51,.685,1,1,0
+2022,NL,West Division,San Diego Padres,89,73,.549,1,0,0
+2022,NL,West Division,San Francisco Giants,81,81,.500,0,0,0
+2022,NL,West Division,Arizona Diamondbacks,74,88,.457,0,0,0
+2022,NL,West Division,Colorado Rockies,68,94,.420,0,0,0
+
+2023,AL,East Division,Baltimore Orioles,101,61,.623,1,1,0
+2023,AL,East Division,Tampa Bay Rays,99,63,.611,1,0,0
+2023,AL,East Division,Toronto Blue Jays,89,73,.549,1,0,0
+2023,AL,East Division,New York Yankees,82,80,.506,0,0,0
+2023,AL,East Division,Boston Red Sox,78,84,.481,0,0,0
+2023,AL,Central Division,Minnesota Twins,87,75,.537,1,1,0
+2023,AL,Central Division,Detroit Tigers,78,84,.481,0,0,0
+2023,AL,Central Division,Cleveland Guardians,76,86,.469,0,0,0
+2023,AL,Central Division,Chicago White Sox,61,101,.377,0,0,0
+2023,AL,Central Division,Kansas City Royals,56,106,.346,0,0,0
+2023,AL,West Division,Houston Astros,90,72,.556,1,1,0
+2023,AL,West Division,Texas Rangers,90,72,.556,1,0,1
+2023,AL,West Division,Seattle Mariners,88,74,.543,0,0,0
+2023,AL,West Division,Los Angeles Angels,73,89,.451,0,0,0
+2023,AL,West Division,Oakland Athletics,50,112,.309,0,0,0
+2023,NL,East Division,Atlanta Braves,104,58,.642,1,1,0
+2023,NL,East Division,Philadelphia Phillies,90,72,.556,1,0,0
+2023,NL,East Division,Miami Marlins,84,78,.519,1,0,0
+2023,NL,East Division,New York Mets,75,87,.463,0,0,0
+2023,NL,East Division,Washington Nationals,71,91,.438,0,0,0
+2023,NL,Central Division,Milwaukee Brewers,92,70,.568,1,1,0
+2023,NL,Central Division,Chicago Cubs,83,79,.512,0,0,0
+2023,NL,Central Division,Cincinnati Reds,82,80,.506,0,0,0
+2023,NL,Central Division,Pittsburgh Pirates,76,86,.469,0,0,0
+2023,NL,Central Division,St. Louis Cardinals,71,91,.438,0,0,0
+2023,NL,West Division,Los Angeles Dodgers,100,62,.617,1,1,0
+2023,NL,West Division,Arizona Diamondbacks,84,78,.519,1,0,0
+2023,NL,West Division,San Diego Padres,82,80,.506,0,0,0
+2023,NL,West Division,San Francisco Giants,79,83,.488,0,0,0
+2023,NL,West Division,Colorado Rockies,59,103,.364,0,0,0
+
+2024,AL,East Division,New York Yankees,94,68,.580,1,1,0
+2024,AL,East Division,Baltimore Orioles,91,71,.562,1,0,0
+2024,AL,East Division,Boston Red Sox,81,81,.500,0,0,0
+2024,AL,East Division,Tampa Bay Rays,80,82,.494,0,0,0
+2024,AL,East Division,Toronto Blue Jays,74,88,.457,0,0,0
+2024,AL,Central Division,Cleveland Guardians,92,69,.571,1,1,0
+2024,AL,Central Division,Kansas City Royals,86,76,.531,1,0,0
+2024,AL,Central Division,Detroit Tigers,86,76,.531,1,0,0
+2024,AL,Central Division,Minnesota Twins,82,80,.506,0,0,0
+2024,AL,Central Division,Chicago White Sox,41,121,.253,0,0,0
+2024,AL,West Division,Houston Astros,88,73,.547,1,1,0
+2024,AL,West Division,Seattle Mariners,85,77,.525,0,0,0
+2024,AL,West Division,Texas Rangers,78,84,.481,0,0,0
+2024,AL,West Division,Oakland Athletics,69,93,.426,0,0,0
+2024,AL,West Division,Los Angeles Angels,63,99,.389,0,0,0
+2024,NL,East Division,Philadelphia Phillies,95,67,.586,1,1,0
+2024,NL,East Division,Atlanta Braves,89,73,.549,1,0,0
+2024,NL,East Division,New York Mets,89,73,.549,1,0,0
+2024,NL,East Division,Washington Nationals,71,91,.438,0,0,0
+2024,NL,East Division,Miami Marlins,62,100,.383,0,0,0
+2024,NL,Central Division,Milwaukee Brewers,93,69,.574,1,1,0
+2024,NL,Central Division,Chicago Cubs,83,79,.512,0,0,0
+2024,NL,Central Division,St. Louis Cardinals,83,79,.512,0,0,0
+2024,NL,Central Division,Cincinnati Reds,77,85,.475,0,0,0
+2024,NL,Central Division,Pittsburgh Pirates,76,86,.469,0,0,0
+2024,NL,West Division,Los Angeles Dodgers,98,64,.605,1,1,1
+2024,NL,West Division,San Diego Padres,93,69,.574,1,0,0
+2024,NL,West Division,Arizona Diamondbacks,89,73,.549,0,0,0
+2024,NL,West Division,San Francisco Giants,80,82,.494,0,0,0
+2024,NL,West Division,Colorado Rockies,61,101,.377,0,0,0
+
+2025,AL,East Division,Toronto Blue Jays,94,68,.580,1,1,0
+2025,AL,East Division,New York Yankees,94,68,.580,1,0,0
+2025,AL,East Division,Boston Red Sox,89,73,.549,1,0,0
+2025,AL,East Division,Tampa Bay Rays,77,85,.475,0,0,0
+2025,AL,East Division,Baltimore Orioles,75,87,.463,0,0,0
+2025,AL,Central Division,Cleveland Guardians,88,74,.543,1,1,0
+2025,AL,Central Division,Detroit Tigers,87,75,.537,1,0,0
+2025,AL,Central Division,Kansas City Royals,82,80,.506,0,0,0
+2025,AL,Central Division,Minnesota Twins,70,92,.432,0,0,0
+2025,AL,Central Division,Chicago White Sox,60,102,.370,0,0,0
+2025,AL,West Division,Seattle Mariners,90,72,.556,1,1,0
+2025,AL,West Division,Houston Astros,87,75,.537,0,0,0
+2025,AL,West Division,Texas Rangers,81,81,.500,0,0,0
+2025,AL,West Division,Oakland Athletics,76,86,.469,0,0,0
+2025,AL,West Division,Los Angeles Angels,72,90,.444,0,0,0
+2025,NL,East Division,Philadelphia Phillies,96,66,.593,1,1,0
+2025,NL,East Division,New York Mets,83,79,.512,0,0,0
+2025,NL,East Division,Miami Marlins,79,83,.488,0,0,0
+2025,NL,East Division,Atlanta Braves,76,86,.469,0,0,0
+2025,NL,East Division,Washington Nationals,66,96,.407,0,0,0
+2025,NL,Central Division,Milwaukee Brewers,97,65,.599,1,1,0
+2025,NL,Central Division,Chicago Cubs,92,70,.568,1,0,0
+2025,NL,Central Division,Cincinnati Reds,83,79,.512,1,0,0
+2025,NL,Central Division,St. Louis Cardinals,78,84,.481,0,0,0
+2025,NL,Central Division,Pittsburgh Pirates,71,91,.438,0,0,0
+2025,NL,West Division,Los Angeles Dodgers,93,69,.574,1,1,1
+2025,NL,West Division,San Diego Padres,90,72,.556,1,0,0
+2025,NL,West Division,San Francisco Giants,81,81,.500,0,0,0
+2025,NL,West Division,Arizona Diamondbacks,80,82,.494,0,0,0
+2025,NL,West Division,Colorado Rockies,43,119,.265,0,0,0

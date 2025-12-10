@@ -1,11 +1,3 @@
-# mlb_standings_scrape_2000_2015.py
-# Scrapes MLB regular-season standings (wins/losses/win%) for seasons 2000-2015
-# Source pages: Baseball-Reference (e.g. https://www.baseball-reference.com/leagues/majors/2000-standings.shtml)
-# Usage: python mlb_standings_scrape_2000_2015.py
-#
-# IMPORTANT: Please respect the site's robots.txt and terms of use.
-# This script includes polite delays and a custom User-Agent.
-
 import csv
 import time
 import requests
@@ -15,7 +7,7 @@ from urllib.parse import urljoin
 BASE_URL = "https://www.baseball-reference.com"
 SEASON_URL = BASE_URL + "/leagues/majors/{year}-standings.shtml"
 HEADERS = {"User-Agent": "MLB-Standings-Scraper/1.0 (+your_email@example.com) - For research/educational use"}
-OUTFILE = "mlb_2000_2015_standings.csv"
+OUTFILE = "mlb_2016_2025_standings.csv"
 
 def parse_division_table(table):
     rows = []
@@ -94,7 +86,7 @@ def scrape_year(year):
     return season_rows
 
 def main():
-    years = list(range(2000, 2016))
+    years = list(range(2016, 2026))
     with open(OUTFILE, "w", newline="", encoding="utf-8") as f:
         fieldnames = ["Year","League","Division","Team","W","L","Wpct"]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
