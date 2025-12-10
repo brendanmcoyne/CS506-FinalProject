@@ -46,7 +46,7 @@ make test
 This runs automated tests defined in test_model.py using pytest.
 
 
-Automated Testing & GitHub Workflow
+### Automated Testing & GitHub Workflow
 
 The project includes:
 
