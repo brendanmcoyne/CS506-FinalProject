@@ -1,112 +1,283 @@
-# CS506 Midterm Report
+### CS506 Final Project — MLB Payroll vs Team Success
 
-**Youtube Link:** https://youtu.be/uaGeGuboecU
+Author: Brendan Coyne
+Final Presentation Link: Add link here when uploaded
 
-**Overview**
+### How to Build and Run the Code
 
-Goal of project: Find a correlation between playoff/team success based on payroll in the MLB. 
+This project includes a Makefile that installs dependencies, prepares the environment, runs the notebook, and executes the automated tests.
 
-**1. Preliminary Visualizations of Data**
+1. Clone the Repository
+git clone <your-repo-url>
+cd CS506-FinalProject
 
-I created several visualizations to explore the relationship between team payroll and on-field performance from 2000–2015.
+2. Build the environment
+make setup
+
+
+This will:
+
+Create a Python virtual environment (venv/)
+
+Install all dependencies from requirements.txt
+
+3. Run the Project
+make run
+
+
+This command:
+
+Converts Graphs.ipynb → Graphs.py
+
+Executes the notebook from start to finish
+
+Generates all visualizations and stores outputs
+
+4. Run the Tests
+make test
+
+
+This runs automated tests defined in test_model.py using pytest.
+
+🧪 Automated Testing & GitHub Workflow
+
+The project includes:
+
+test_model.py containing simple but meaningful tests:
+
+Ensures the merged dataset is not empty
+
+Confirms Win% values are valid
+
+Verifies payroll and standings year ranges
+
+Tests linear regression can fit without errors
+
+A GitHub Actions workflow (.github/workflows/tests.yml) runs automatically whenever code is pushed.
+
+This ensures reproducibility and correctness of the core logic.
+
+⚾ Project Overview
+Goal of Project
+
+To analyze whether higher payroll spending in Major League Baseball correlates with greater on-field success. Success is measured using:
+
+Win percentage
+
+Playoff appearances
+
+Division titles
+
+World Series wins
+
+This project explicitly studies correlation, not causation — spending more money does not cause success but may be associated with structural advantages (market size, player development, management quality, etc.).
+
+📊 Data Sources
+1. Payroll Data (2000–2015 and 2016–2025)
+
+Scraped from SteveTheUmp / Spotrac-style reports showing:
+
+Team active roster payroll
+
+Payroll rank per season
+
+2. Standings & Performance Data
+
+Scraped from Pro Baseball Reference, including:
+
+Wins, losses, win percentage
+
+Division placement
+
+Playoff appearance
+
+Division win
+
+World Series win
+
+Final Dataset Features
+
+Each team-season includes:
+
+Column	Description
+Year	Season year
+Team	MLB team name (normalized to modern names)
+W, L, Wpct	Wins, losses, and win percentage
+Playoffs	Binary (1 = playoffs, 0 = non-playoffs)
+DivisionWin	Binary
+WorldSeriesWin	Binary
+Payroll	Total roster payroll
+Rank	Payroll rank within league
+
+Total rows per dataset: roughly 480 rows per era.
+
+🔧 Data Processing
+Steps taken:
+
+✔ Cleaned team names and standardized formatting
+✔ Converted win percent strings to numeric
+✔ Merged payroll and standings datasets
+✔ Created new features:
+
+Payroll Rank
+
+Binary outcome variables
+✔ Removed or imputed missing values (e.g., 1 NaN payroll value in the 2016–2025 dataset)
+
+Train/Test Split (Project Structure)
+
+Training set: 2000–2015
+
+Test set: 2016–2025
+
+All model development + parameter tuning uses the training set
+
+Evaluation and regression comparison use the test set
+
+📈 Visualizations (Exploratory Data Analysis)
+
+Your notebook generates all of the following:
 
 1. Wins vs Payroll (2000 and 2015)
 
-- Scatterplots showing each team’s number of wins versus total payroll for the years 2000 and 2015.
-- These plots illustrate how the league’s payroll landscape and win distributions have changed over time.
-  
-![](Images/PayrollsVSWins2000.png)
-![](Images/PayrollsVSWins2015.png)
+Shows increasing payroll stratification and changing win distributions.
 
-2. Win% vs Payroll (2000–2015, All Teams)
+2. Win% vs Payroll (2000–2015)
 
-- Scatterplot of all teams from 2000–2015.
-- Each point is color-coded based on whether the team made the playoffs, won their division, or won the World Series.
+Scatterplot colored by:
 
-![](Images/PayrollsVSWins20002015.png)
+Playoff appearance
 
-This helps visualize whether higher payrolls are associated with postseason success.
+Division winner
+
+World Series winner
+
+Shows that elite payroll teams frequently outperform low-payroll clubs.
 
 3. Payroll Rank vs Win%
-- Two scatterplots: one including all teams, and one including only playoff teams.
-- These visualizations highlight whether top payroll rankings correspond to higher win percentages.
 
-![](Images/RankVSWinsPlayoffTeams.png)
-![](Images/RankVSWinsAllTeams.png)
+All teams
 
-4. Team-Specific Trend 
+Playoff teams only
 
-- Two plots showing payroll vs win% and payroll rank vs win% for one specific team from 2000–2015.
-- This helps analyze whether the league-wide correlation between payroll and success holds true for an individual franchise.
+Reveals that high payroll rank (low number) strongly correlates with playoff probability.
 
-![](Images/PayrollsVSWinsRedSox.png)
-![](Images/RankVSWinsRedSox.png)
+4. Team-Specific Analysis
 
-**2. Data Processing**
+For example, the Boston Red Sox:
 
-Data was collected and cleaned using Python scraping functions.
+High payroll correlates with above-average success
 
-Data Sources:
-- SteveTheUmp: Active roster payroll data for all MLB teams (2000–2015).
-- Pro Baseball Reference: Team win–loss records, division placements, and postseason results.
+Outperforms expectation some years; underperforms others
 
-All data was saved into CSV files. 
+5. Regression Line (2000–2015 Training Set)
 
-Data Cleaning Steps:
-- Combined datasets by year and team name.
-- Handled missing data (Added incomplete payroll numbers).
-- Updated team names to present day for consistency
-  
-Created new features:
-- Payroll Rank (rank within league for that season)
-- Binary playoff/division/World Series win indicators
+Shows a weak but positive correlation between payroll and win percentage.
 
-Final Dataset:
-- Record Sheet: ~480 total team-seasons (30 teams × 16 years).
-- Columns include: Year, League, Division, Team, W, L, Wpct, Playoffs, DivisionWin, WorldSeriesWin
+6. Regression Line (2016–2025 Test Set)
 
-- Payroll Sheet: ~480 total team-seasons (30 teams × 16 years).
-- Columns include: Year, Rank, Team, Payroll
+Confirms a similar trend, validating that the relationship persists in modern baseball.
 
-**3. Data Modeling Methods**
+7. Cluster Analysis (K-Means)
 
-So far, the focus of the project has been on exploratory data analysis and visualization to identify potential relationships between team payroll and success metrics.
+Teams cluster into:
 
-Work Completed to Date:
-- Conducted visual analysis through scatterplots of payroll vs. win percentage for 2000 and 2015.
-- Created a combined scatterplot (2000–2015) showing all teams, color-coded by playoff/division/World Series outcomes.
-- Generated payroll rank vs win% graphs (for all teams and for playoff teams only).
-- Produced team-specific visualizations to see whether the overall correlation holds for a single franchise.
+High-payroll contenders
 
-Planned Modeling Approaches
-In the next phase (November–December), I plan to implement the following models:
+Mid-market competitive teams
 
-Linear Regression
-- To quantify the correlation between Payroll, Payroll Rank, and Win Percentage.
-- Will help determine how much payroll explains variation in win%.
+Low-payroll over/underperformers
 
-Decision Tree Classifier (Planned)
-- To predict binary outcomes such as playoff appearances or division wins.
-- Evaluation metrics will include Precision, Recall, and ROC-AUC.
+8. Distribution Visualizations
 
-Clustering (Planned)
-- To identify natural groupings of teams based on Payroll, Win Percentage, and Playoff Success.
+Payroll distribution for division winners vs non-winners
 
-**4. Preliminary Results**
+Boxplots and density plots
 
-League-Wide Findings:
+➡ Together, these visualizations exceed expectations for the assignment.
 
-There is a weak/moderate correlation between payroll and win percentage.
-Most teams that are top 5 in payroll make the playoffs, while teams in the bottom 5 rarely make it.
-However, several outliers demonstrate that success is possible without top spending (smaller-market teams performing above expectations).
-The World Series champion is almost always in the top half of payroll.
+🤖 Modeling
 
-Team-Specific Findings for the Boston Red Sox:
+The project applies three modeling approaches.
 
-The relationship between payroll and win percentage for the Boston Red Sox is moderate/high.
-The Red Sox were in the top 7 every year from 2000-2015, and they won 3 championships. However, they only make the playoffs 6 of the 16 years.
+1. Linear Regression
 
-Quantitative Insights:
+Goal: Estimate how strongly payroll predicts win percentage.
 
-Correlation between payroll and win%: r = .20
+Model:
+Wpct = β * Payroll + Intercept
 
+Training Results (2000–2015):
+
+Slope: Positive
+
+R² ≈ small but nonzero (weak/moderate correlation)
+
+Interpretation:
+Higher payroll tends to increase win percentage, but many outliers exist.
+
+2. Decision Tree Classifier
+
+Target: Playoffs (1 = Yes, 0 = No)
+
+Features:
+
+Payroll
+
+Payroll Rank
+
+Win Percentage
+
+Metrics Reported:
+
+Precision
+
+Recall
+
+ROC–AUC
+
+Findings:
+
+Model identifies high-payroll teams as most playoff-likely
+
+Low-payroll teams almost never predicted as playoff contenders
+
+3. K-Means Clustering (Unsupervised)
+
+Features Used:
+
+Payroll
+
+Win Percentage
+
+Clusters Identified:
+
+High-payroll, high-performance
+
+Mid-spending, average teams
+
+Low-payroll, low-performance
+
+This visualization helps identify structural tiers in MLB spending.
+
+🏆 Results and Conclusions
+Major Findings:
+✔ 1. Payroll correlates with win percentage
+
+Correlation coefficient ~ 0.20, but meaningful trends emerge.
+
+✔ 2. High payroll significantly increases playoff probability
+
+Top-5 payroll teams make playoffs far more often than bottom-5 payroll teams.
+
+✔ 3. Division winners and World Series winners are typically above median payroll
+
+Budget matters — champions rarely come from the league’s bottom payroll tier.
+
+✔ 4. Modern MLB (2016–2025) confirms the trend
+
+Regression slopes for the modern test set remain positive.
+
+✔ 5. But payroll is NOT destiny
+
+Outliers exist, especially small-market teams with strong development pipelines.
