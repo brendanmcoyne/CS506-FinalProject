@@ -106,82 +106,77 @@ Final Dataset Features
 
 Each team-season includes:
 
-Column	Description
-Year	Season year
-Team	MLB team name (normalized to modern names)
-W, L, Wpct	Wins, losses, and win percentage
-Playoffs	Binary (1 = playoffs, 0 = non-playoffs)
-DivisionWin	Binary
-WorldSeriesWin	Binary
-Payroll	Total roster payroll
-Rank	Payroll rank within league
+- Year
+  
+- Team
+  
+- Wins, losses, and win percentage
+  
+- Playoffs	Binary (1 = playoffs, 0 = non-playoffs)
+  
+- DivisionWin	Binary
+  
+- WorldSeriesWin	Binary
+  
+- Payroll	Total
+  
+- Payroll Rank within league
 
 Total rows per dataset: roughly 480 rows per era.
 
-🔧 Data Processing
+### Data Processing
 Steps taken:
 
-✔ Cleaned team names and standardized formatting
-✔ Converted win percent strings to numeric
-✔ Merged payroll and standings datasets
-✔ Created new features:
+- Cleaned team names and standardized formatting
+- Converted win percent strings to numeric
+- Merged payroll and standings datasets
 
-Payroll Rank
-
-Binary outcome variables
-✔ Removed or imputed missing values (e.g., 1 NaN payroll value in the 2016–2025 dataset)
+  
+Created new features:
+- Payroll Rank
+- Binary outcome variables
+- Removed or imputed missing values
 
 Train/Test Split (Project Structure)
 
 Training set: 2000–2015
-
 Test set: 2016–2025
 
 All model development + parameter tuning uses the training set
 
 Evaluation and regression comparison use the test set
 
-📈 Visualizations (Exploratory Data Analysis)
+### Visualizations (Exploratory Data Analysis)
 
-Your notebook generates all of the following:
+The notebook generates all of the following:
 
-1. Wins vs Payroll (2000 and 2015)
+1. Win% vs Payroll (2000-2015, 2016-2025)
 
-Shows increasing payroll stratification and changing win distributions.
+  Scatterplot colored by:
 
-2. Win% vs Payroll (2000–2015)
+- Playoff appearance
 
-Scatterplot colored by:
+- Division winner
 
-Playoff appearance
+- World Series winner
 
-Division winner
+- Shows that elite payroll teams frequently outperform low-payroll clubs.
 
-World Series winner
+2. Payroll Rank vs Win% (2000-2015, 2016-2025)
 
-Shows that elite payroll teams frequently outperform low-payroll clubs.
+  One for playoff teams, one for all teams.
 
-3. Payroll Rank vs Win%
+  Reveals that high payroll rank (low number) correlates with higher playoff probability.
 
-All teams
+3. Box Plot for Division Winners vs Non-Division Winners (2000-2015, 2016-2025)
 
-Playoff teams only
+  Shows a slight increase in spending for division winners on average.
 
-Reveals that high payroll rank (low number) strongly correlates with playoff probability.
-
-4. Team-Specific Analysis
-
-For example, the Boston Red Sox:
-
-High payroll correlates with above-average success
-
-Outperforms expectation some years; underperforms others
-
-5. Regression Line (2000–2015 Training Set)
+4. Regression Line (2000–2015 Training Set)
 
 Shows a weak but positive correlation between payroll and win percentage.
 
-6. Regression Line (2016–2025 Test Set)
+5. Regression Line (2016–2025 Test Set)
 
 Confirms a similar trend, validating that the relationship persists in modern baseball.
 
@@ -189,21 +184,14 @@ Confirms a similar trend, validating that the relationship persists in modern ba
 
 Teams cluster into:
 
-High-payroll contenders
+- High-payroll contenders
 
-Mid-market competitive teams
+- Mid-market competitive teams
 
-Low-payroll over/underperformers
+- Low-payroll over/underperformers
 
-8. Distribution Visualizations
 
-Payroll distribution for division winners vs non-winners
-
-Boxplots and density plots
-
-➡ Together, these visualizations exceed expectations for the assignment.
-
-🤖 Modeling
+### Modeling
 
 The project applies three modeling approaches.
 
