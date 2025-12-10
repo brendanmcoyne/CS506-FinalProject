@@ -13,31 +13,34 @@ git clone <your-repo-url>
 cd CS506-FinalProject
 ```
 
-3. Build the environment
+2. Build the environment
+```bash
 make setup
-
+```
 
 This will:
 
-Create a Python virtual environment (venv/)
+- Create a Python virtual environment (venv/)
 
-Install all dependencies from requirements.txt
+- Install all dependencies from requirements.txt
 
 3. Run the Project
+```bash
 make run
-
+```
 
 This command:
 
-Converts Graphs.ipynb → Graphs.py
+- Converts Graphs.ipynb → Graphs.py
 
-Executes the notebook from start to finish
+- Executes the notebook from start to finish
 
-Generates all visualizations and stores outputs
+- Generates all visualizations and stores outputs
 
 4. Run the Tests
+```bash
 make test
-
+```
 
 This runs automated tests defined in test_model.py using pytest.
 
