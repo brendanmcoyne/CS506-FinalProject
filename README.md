@@ -135,7 +135,7 @@ Steps taken:
 Created new features:
 - Payroll Rank
 - Binary outcome variables
-- Removed or imputed missing values
+- Removed and inputed missing values
 
 Train/Test Split (Project Structure)
 
